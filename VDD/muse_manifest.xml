@@ -1,0 +1,50 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.iitg.ernet.in/vdd" resolutions="1x" timestamp="1454780625183">
+  <folder name="css">
+    <file name="site_global.css" crc="4288096021"/>
+    <file name="master_a-master.css" crc="287830518" ref="index"/>
+    <file name="index.css" crc="4015663442" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="application-form_teqip-visual-display-design.doc" crc="225075661" seo="true" mt="1447350626000"/>
+    <file name="application-form_teqip_visual-display-design.pdf" crc="4199274190" seo="true" mt="1447350656000"/>
+    <file name="brochure_web.pdf" crc="4247552717" seo="true" mt="1453928049000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="visual-display-design-workshop-favicon.ico" crc="3758483281" ref="index"/>
+    <file name="u1123-8.png" crc="30844839" ref="index"/>
+    <file name="logo1.png" crc="4140315128" seo="true" ref="index"/>
+    <file name="u1129-10.png" crc="3916938594" ref="index"/>
+    <file name="logo.png" crc="526543100" seo="true" ref="index"/>
+    <file name="iitg_cc_acad_admin.jpg" crc="4233888407" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="6-u1264.png" crc="501248799" ref="index"/>
+    <file name="more_info_icon-u1520.png" crc="4002328281" ref="index"/>
+    <file name="filling out form-u1466.png" crc="4044413947" ref="index"/>
+    <file name="6-u1274.png" crc="501248799" ref="index"/>
+    <file name="adobe_pdf_icon-250x250.png" crc="450648362" seo="true" ref="index"/>
+    <file name="word_2013_file_iconsvg.png" crc="4283281249" seo="true" ref="index"/>
+    <file name="accomodation-u1443.png" crc="3908098291" ref="index"/>
+    <file name="subahansari_20hostel-u966-fr.jpg" crc="3847256483" ref="index"/>
+    <file name="hiltop_scene_20_6_-u967-fr.jpg" crc="4218174876" ref="index"/>
+    <file name="p1070203-u968-fr.jpg" crc="448535569" ref="index"/>
+    <file name="night.jpg" crc="129075600" seo="true" ref="index"/>
+    <file name="page_title_contactus-u1493.png" crc="4151590881" ref="index"/>
+    <file name="u1215-7.png" crc="3758380481" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4051892110" seo="true" mt="1454780480354" redirect="true"/>
+</manifest>
