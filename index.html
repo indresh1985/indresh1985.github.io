@@ -1,286 +1,140 @@
 <!doctype html>
 <html>
 <head>
+<meta name="keywords" content="Indresh Kumar Verma, ergonomics, IITG, IIT Guwahati, Design, DOD, research scholar, ergonomics lab, India">
+<meta name="description" content="Indresh Kumar verma is a Ph.D. Research scholar at Department of Design, IIT Guwahati. He works in the field of Ergonomics and its related areas.">
+<meta name="Copyright" content="Indresh Kumar verma">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="image" content="www.iitg.ac.in/stud/indresh/images/thumbnail_indresh.jpg">
 <meta charset="utf-8">
-<title>Indresh K. Verma</title>
-<style type="text/css">
-<!--
-body {
-	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background-color: #4E5869;
-	margin: 0;
-	padding: 0;
-	color: #000;
-	background-image: url(images/regal.png);
-}
-
-/* ~~ Element/tag selectors ~~ */
-ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
-	padding: 0;
-	margin: 0;
-}
-.content .container1 {
-	height: 350px;
-	padding-top: 20px;
-	float: right;
-	width: 100%;
-}
-h1, h2, h4, h5, h6, p  {
-	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
-	padding-right: 15px;
-	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
-}
-h3 {
-	color: #1B28A5;
-	font-variant: small-caps;
-	padding-left: 10px;
-}
-a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
-	border: none;
-}
-
-/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
-a:link {
-	color: #CC0000;
-	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
-}
-a:visited {
-	color: #4E5869;
-	text-decoration: underline;
-}
-a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
-	color: #FFFFFF;
-}
-
-/* ~~ this container surrounds all other divs giving them their percentage-based width ~~ */
-.container {
-	width: 80%;
-	max-width: 1260px;/* a max-width may be desirable to keep this layout from getting too wide on a large monitor. This keeps line length more readable. IE6 does not respect this declaration. */
-	min-width: 780px;/* a min-width may be desirable to keep this layout from getting too narrow. This keeps line length more readable in the side columns. IE6 does not respect this declaration. */
-	background-color: #FFF;
-	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout. It is not needed if you set the .container's width to 100%. */
-	overflow: hidden; /* this declaration makes the .container clear all floated columns within it. */
-}
-
-/* ~~ These are the columns for the layout. ~~ 
-
-1) Padding is only placed on the top and/or bottom of the divs. The elements within these divs have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
-
-2) No margin has been given to the columns since they are all floated. If you must add margin, avoid placing it on the side you're floating toward (for example: a right margin on a div set to float right). Many times, padding can be used instead. For divs where this rule must be broken, you should add a "display:inline" declaration to the div's rule to tame a bug where some versions of Internet Explorer double the margin.
-
-3) Since classes can be used multiple times in a document (and an element can also have multiple classes applied), the columns have been assigned class names instead of IDs. For example, two sidebar divs could be stacked if necessary. These can very easily be changed to IDs if that's your preference, as long as you'll only be using them once per document.
-
-4) If you prefer your nav on the right instead of the left, simply float these columns the opposite direction (all right instead of all left) and they'll render in reverse order. There's no need to move the divs around in the HTML source.
-
-*/
-.sidebar1 {
-	float: left;
-	width: 26%;
-	background-color: #93A5C4;
-	padding-bottom: 10px;
-	list-style-type: circle;
-	padding-right: 2%;
-	padding-left: 2%;
-	padding-top: 10px;
-	height: 2000px;
-}
-.sidebar1 ul {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: small;
-	color: #006;
-	padding-left: 10px;
-}
-.content {
-	width: 69%;
-	float: right;
-	padding-top: 10px;
-	padding-right: 0;
-	padding-bottom: 10px;
-	padding-left: 1%;
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	background-color: #FFFFE6;
-	height: 2000px;
-}
-.sidebar1 ul li {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: small;
-	font-variant: normal;
-	color: #006;
-	font-style: italic;
-	list-style-type: square;
-	list-style-position: inside;
-}
-.container .sidebar1 .image {
-	height: auto;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	padding-left: 5%;
-	padding-right: 5%;
-}
-
-/* ~~ This grouped selector gives the lists in the .content area space ~~ */
-.content ul, .content ol { 
-	padding: 0 15px 15px 40px; /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
-}
-
-/* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
-ul.nav {
-	list-style: none; /* this removes the list marker */
-	border-top: 1px solid #666; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
-	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
-}
-ul.nav li {
-	border-bottom: 1px solid #666; /* this creates the button separation */
-}
-ul.nav a, ul.nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
-	padding: 5px 5px 5px 15px;
-	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
-	text-decoration: none;
-	background-color: #8090AB;
-	color: #000;
-}
-ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
-	background-color: #6F7D94;
-	color: #FFF;
-}
-
-/* ~~miscellaneous float/clear classes~~ */
-.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
-	float: right;
-	margin-left: 8px;
-}
-.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
-	float: left;
-	margin-right: 8px;
-}
-.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the overflow:hidden on the .container is removed */
-	clear:both;
-	height:0;
-	font-size: 1px;
-	line-height: 0px;
-}
-.footer {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: 16px;
-	color: #FFF;
-	background-color: #900;
-	text-align: center;
-	clear: both;
-	float: left;
-	width: 100%;
-	padding-bottom: 20px;
-	padding-top: 20px;
-}
--->
-</style><!--[if lte IE 7]>
-<style>
-.content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
-ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
-</style>
-<![endif]--></head>
-
+<link rel="shortcut icon" type="image/png" href="images/IITG_logo.png" sizes="32x32"/>
+<title>Home::Indresh</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+</head>
 <body>
-
 <div class="container">
   <div class="sidebar1">
-  <div class="image">
-	<img name="indresh kumar verma" src="images/pic2.jpg" width="100%" height="auto" border-radius= "25px" alt="Indresh Verma">
-	</div>
-   <hr align="center" width="95%" size="1" style="border: 1px dashed black;">
-
-
-<strong style="font-size:14px; font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif">Contact Information</strong>
-    <ul>
-   	  Ph.D. Research Scholar,<br>
-      Ergonomics Laboratory, Department of Design,<br>Indian Institute of Technology (IIT) Guwahati, 
-Guwahati – 781039, Assam, India.<br>
-E-mail: <a href="mailto:indresh.verma@gmail.com">indresh.verma@gmail.com</a> <a href="mailto:indresh@iitg.ac.in">indresh@iitg.ac.in</a></ul><br>
-<strong style="font-size:14px; font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif">References</strong>
-    <ul>
-   	 <strong>Dr. Sougata Karmakar</strong><br>
-   	      Assistant Professor,<br>Department of Design, IIT Guwahati, <br>Guwahati – 781039, Assam, India.<br>
-         <a href="mailto:karmakar.sougata@iitg.ac.in">karmakar.sougata@iitg.ac.in</a>
-    </ul><p>
-    <ul>
-   <strong> Dr. Binsu J Kailath</strong><br>
-Assistant Professor,<br>
-Electronics Engineering,<br>
-IIITD&M Kancheepuram<br>
-Chennai – 600127, Tamilnadu, India.<br>
-<a href="mailto:bkailath@iiitdm.ac.in">bkailath@iiitdm.ac.in</a>
-    </ul><br>
-
-
-
-
-
-
-    <strong style="font-size:14px; font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif">Professional Membership</strong>
-    <ul>
-   	  <li>Life member of Indian Society of Ergonomics (ISE)<br> Membership number: L-428</li>  	 
-    </ul>
-    		
+    <div class="image"> <img name="indresh kumar verma" src="images/pic2.jpg" width="100%" height="auto" border-radius= "25px" alt="Indresh Verma"> </div>
+    <div id="info">
+    <hr align="center" width="95%" size="1" style="border: 1px dashed black;">
     
-    <!-- end .sidebar1 --></div>
- 
-  <div class="content">
-  <div class="container1">
-    <h1>Indresh Kumar Verma</h1>
-    <h4> Research Scholar, M.Des, B.E.</h4>
+    <strong style="font-size:14px; font-family:'OpenSans SemiBold'">Contact Information</strong>
+    <ul>
+      Ph.D. Research Scholar,<br>
+      Ergonomics Laboratory, Department of Design, Indian Institute of Technology (IIT) Guwahati, 
+      Guwahati – 781039, Assam, India.<br>
+      E-mail: <a href="mailto:indresh.verma@gmail.com">indresh.verma@gmail.com</a>, <a href="mailto:indresh@iitg.ac.in">indresh@iitg.ac.in</a>
+    </ul>
+    <br>
+    <strong style="font-size:14px; font-family: 'OpenSans SemiBold'">References</strong>
+    <ul>
+      <span style="font-family:'OpenSans SemiBold'">Dr. Sougata Karmakar</span><br>
+      Assistant Professor,<br>
+      Department of Design, IIT Guwahati, <br>
+      Guwahati – 781039, Assam, India.<br>
+      <a href="mailto:karmakar.sougata@iitg.ac.in">karmakar.sougata@iitg.ac.in</a>
+    </ul>
+    <p>
+    <ul>
+      <span style="font-family:'OpenSans SemiBold'"> Dr. Binsu J Kailath</span><br>
+      Assistant Professor,<br>
+      Electronics Engineering,<br>
+      IIITD&M Kancheepuram<br>
+      Chennai – 600127, Tamilnadu, India.<br>
+      <a href="mailto:bkailath@iiitdm.ac.in">bkailath@iiitdm.ac.in</a>
+    </ul>
+    <br>
+    <strong style="font-size:14px; font-family: 'OpenSans SemiBold'">Professional Membership</strong>
+    <ul>
+      <li>Life member of Indian Society of Ergonomics (ISE), Membership number: L-428</li>
+    </ul>
+    <br />
+    <hr align="left" width="95%" size="1" style="border: 1px dashed black;">
+    <strong style="font-size:14px; font-family: 'OpenSans SemiBold'">Useful Links:</strong>
+    <ul style="font-size:10px;">
+      <li><a href="http://www.iitg.ac.in/erglab/" title="Ergonomics Lab, IITG" target="_blank">Ergonomics Laboratory, IITG</a></li>
+      <li><a href="http://www.ise.org.in/" title="Indian Society of Ergonomics" target="_blank">Indian Society of Ergonomics (ISE)</a></li>
+      <li><a href="https://www.iea.cc/" title="International Ergonomics Association (IEA)" target="_blank">International Ergonomics Association (IEA)</a></li>
+    </ul> </div>
+    <div id="counter">
+<script type="text/javascript" src="https://freehitcounters.org/count/29qp"></script><br>
+ <a href='https://freehitcounters.org/'>Visitor and Hit Counter</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=7a39bffa4bef3a2978d0662ee4e50751c73c1f64'></script>
+    
+    </div>
+    
   </div>
-  <hr align="center" width="95%" size="1" style="border: 1px dashed black;">
-<h3>Education</h3>
-
-	<ul>
-        	<li><strong>IIT Guwahati</strong>,Guwahati, Assam, India.<br>
-            	<em>Doctoral Research Scholar</em>
-            </li>
-       		<li><strong>IIITD&M, Kancheepuram</strong>,Tamil Nadu. India. <br>
-            	<em>M.Des (Electronic Systems)</em>
-            </li>
-        	<li><strong>Chhatrapati Shivaji Institute of Technology</strong>, Durg, Chhattisgarh, India.<br>
-            	<em>B.E. (Electronics & Instrumentation)</em>
-            </li>
-	  <li><strong>Delhi Public School, Risali, Bhilai</strong>, Durg, Chhattisgarh, India.<br>
-       	  <i>Pre-primary, Primary, Senior secondary and Higher secondary School</i>
-		</li>
-	</ul>    
-    
-<h3>Personal Achivement</h3>
-
-	<ul>
-    	<li>Winner of Design competition of calendar 2018 of IIT Guwahati.</li>
-        <li>Winner of Design competition of calendar 2017 of IIT Guwahati.</li>
-        <li>3rd Position in Badminton during Design Championship 2015, organized by the Department of Design,
-IIT Guwahati.</li>
-		<li>Secured 1st position in EIE department in 2006 session at CSIT Durg.</li>
-	    <li>Certificate from Indian School of Arts for participating in All India Drawing and Painting Competition.</li>
-    	<li>Selected among top 3% student in (Graduate Aptitude Test for Engineering)GATE 2010 in Instrumentation Engg. exams conducted by IIT’s and IISC.</li>
-    </ul>
- 
-<h3>Technical Skills</h3>  
-	<ul>
-    	<li><strong>Operating Systems:</strong> Windows, Linux, Mac OSX</li>
-        <li><strong>Tools:</strong> Adobe InDesign, Adobe Illustrator, Adobe Dreamweaver, Adobe Muse, Adobe Photoshop, Catia
-Delmia, Multisim, IBM SPSS 20, LATEX2e</li>
-    
-    </ul>  
- 
-  <h3>Professional Experience</h3>   
-    
-    <ul>
-   
-    </ul>  
-    
-    
-    
- 
-
-  <!-- end .content --></div>
+  <!-- end .sidebar1 -->
   
-  <div class="footer">
- Copyright &copy; 2019, Indresh Kumar Verma, Department of Design, IITG.
-  </div>
+  <div class="content" id="top">
+    <div class="container1">
+      <div class="logo"> <a href="http://www.iitg.ac.in" target="_blank"> <img src="images/IITG_logo.png" width="auto" height="100%" alt="IITG logo" longdesc="Logo of IIT Guwahati"> </a> </div>
+      <!-- end of logo -->
+      <h1 >Indresh Kumar Verma</h1>
+      <h4> Research Scholar (Dept. of Design, IIT Guwahati), <br>
+        M.Des, B.E.</h4>
+      <hr width="98%"color="#CC0000" size="2">
+      <div class="btn_menu">
+        <ul id="nav">
+          <li><a href="#" class="active"><i class='fas fa-home'></i> Home</a></li>
+          <li><a href="#edu"><i class='fas fa-graduation-cap'></i> Education</a></li>
+          <li><a href="Publication.html"><i class='fas fa-file-alt'></i> Publication</a></li>
+          <li><a href="#tech"><i class='fas fa-user-cog'></i> Technical Skills</a></li>
+          <li><a href="contact.html"><i class='fas fa-envelope'></i> Contact</a></li>
+        </ul>
+      </div>
+      <!-- end of btn_menu-->
+      <div class="news-update">
+        <marquee scrollamount="7" scrolldelay="75" direction="left" onMouseOver="stop();" onMouseOut="start();" behavior="alternate">
+        <a href="http://www.iitg.ac.in/erglab/TEQIP/" title="Ergonomics in Design and Engineering Education" target="_blank">TEQIP III Short Term Course: "Ergonomics in Design and Engineering Education"</a>
+        </marquee>
+      </div>
+      <div class="lnk"> &emsp;<a href="pdf/Resume_Indresh.pdf" target="_blank"><strong style="font-size:14px; font-family: 'OpenSans SemiBold';"> <i class='fas fa-file-pdf' style='font-size:24px;color:red'></i> Download CV </strong></a> &emsp; &emsp; <a href="https://www.linkedin.com/in/indresh-verma-30ba00b7/" target="_blank"><strong style="font-size:14px; font-family: 'OpenSans SemiBold';color:#0077B5"> <i class='fab fa-linkedin' style='font-size:24px;color:#0077B5'></i> LinkedIn </strong></a> &emsp; &emsp; <a href="https://www.researchgate.net/profile/Indresh_Verma2" target="_blank"><strong style="font-size:14px; font-family: 'OpenSans SemiBold';color:#0C9">Research Gate</strong></a> </div>
+      <!-- end of links --> 
+      <hr id="edu" width="98%" color="#CC0000" size="2">
+    </div>
+    <!-- end of container 1-->
+   
+    <h2>Education</h2>
+    <ul>
+      <li><span style="font-family:'OpenSans SemiBold'">IIT Guwahati</span>,Guwahati, Assam, India.<br>
+        <em>Doctoral Research Scholar</em> </li>
+      <li><span style="font-family:'OpenSans SemiBold'">IIITD&M, Kancheepuram</span>,Tamil Nadu. India. <br>
+        <em>M.Des (Electronic Systems)</em> </li>
+      <li><span style="font-family:'OpenSans SemiBold'">Chhatrapati Shivaji Institute of Technology</span>, Durg, Chhattisgarh, India.<br>
+        <em>B.E. (Electronics & Instrumentation)</em> </li>
+      <li><span style="font-family:'OpenSans SemiBold'">Delhi Public School, Risali, Bhilai</span>, Durg, Chhattisgarh, India.<br>
+        <i>Pre-primary, Primary, Senior secondary and Higher secondary School</i> </li>
+    </ul>
+    <div class="back"> <a href="#top">&#9650; Top </a> </div>
+    <hr width="98%"color="#CC0000" size="2">
+    <h2>Personal Achivement</h2>
+    <ul>
+      <li>Winner of Design competition of calendar 2018 of IIT Guwahati.</li>
+      <li>Winner of Design competition of calendar 2017 of IIT Guwahati.</li>
+      <li>3rd Position in Badminton during Design Championship 2015, organized by the Department of Design,
+        IIT Guwahati.</li>
+      <li>Secured 1st position in EIE department in 2006 session at CSIT Durg.</li>
+      <li>Certificate from Indian School of Arts for participating in All India Drawing and Painting Competition.</li>
+      <li>Selected among top 3% student in (Graduate Aptitude Test for Engineering) GATE 2010 in Instrumentation Engg. exams conducted by IIT’s and IISC.</li>
+    </ul>
+    <div class="back"> <a href="#top">&#9650; Top </a> </div>
+    <hr id="tech" width="98%" color="#CC0000" size="2">
+    <h2 >Technical Skills</h2>
+    <ul>
+      <li><span style="font-family:'OpenSans SemiBold'">Operating Systems:</span> Windows, Linux, Mac OSX </li>
+      <li><span style="font-family:'OpenSans SemiBold'">Tools:</span> Adobe InDesign, Adobe Illustrator, Adobe Dreamweaver, Adobe Muse, Adobe Photoshop, Catia
+        Delmia, Multisim, IBM SPSS 20, LATEX2e </li>
+    </ul>
+    <div class="back"> <a href="#top">&#9650; Top </a> </div>
+    <hr width="98%" color="#CC0000" size="2" >
+    <h2>Professional Experience</h2>
+    <ul>
+    </ul>
+    <div class="back"> <a href="#top">&#9650; Top </a> </div>
+    
+    <!-- end .content --></div>
+  <div class="footer"> Copyright &copy; 2019, Indresh Kumar Verma, Department of Design, IITG. </div>
   <!-- end .container --></div>
 </body>
 </html>
