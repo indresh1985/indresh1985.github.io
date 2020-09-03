@@ -1,0 +1,120 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.iitg.ernet.in" resolutions="1x" timestamp="1506392335232">
+  <folder name="assets">
+    <file name="bus-timings-2010.pdf" crc="225640288" seo="true" mt="1505147402000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3791620906"/>
+    <file name="master_a-master.css" crc="3993764135" ref="index:touristattraction:resource-person:contact:modules:fees:eligibility:reachingiitg:accommodation"/>
+    <file name="index.css" crc="8662385" ref="index"/>
+    <file name="touristattraction.css" crc="4000962063" ref="touristattraction"/>
+    <file name="resource-person.css" crc="423733456" ref="resource-person"/>
+    <file name="contact.css" crc="3992343240" ref="contact"/>
+    <file name="modules.css" crc="3943400776" ref="modules"/>
+    <file name="fees.css" crc="128073002" ref="fees"/>
+    <file name="eligibility.css" crc="171479005" ref="eligibility"/>
+    <file name="reachingiitg.css" crc="4285659808" ref="reachingiitg"/>
+    <file name="accommodation.css" crc="24884157" ref="accommodation"/>
+  </folder>
+  <folder name="fonts">
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="raleway-semibolditalic.woff" crc="4099048723"/>
+    <file name="raleway-semibolditalic.eot" crc="208216254"/>
+    <file name="raleway-semibolditalic.svg" crc="3770759350"/>
+    <file name="robotocondensed-regular1.woff" crc="506392145"/>
+    <file name="robotocondensed-regular1.eot" crc="189466287"/>
+    <file name="robotocondensed-regular1.svg" crc="207229872"/>
+    <file name="raleway-bold.woff" crc="3838589639"/>
+    <file name="raleway-bold.eot" crc="3932111853"/>
+    <file name="raleway-bold.svg" crc="253343176"/>
+    <file name="raleway-semibold.woff" crc="4240175065"/>
+    <file name="raleway-semibold.eot" crc="4181371188"/>
+    <file name="raleway-semibold.svg" crc="4227536031"/>
+    <file name="roboto-medium.woff" crc="504911981"/>
+    <file name="roboto-medium.eot" crc="217771796"/>
+    <file name="roboto-medium.svg" crc="4090292083"/>
+    <file name="roboto-light.woff" crc="318392004"/>
+    <file name="roboto-light.eot" crc="239106935"/>
+    <file name="roboto-light.svg" crc="3947002085"/>
+    <file name="roboto-mediumitalic.woff" crc="3869082576"/>
+    <file name="roboto-mediumitalic.eot" crc="3788710362"/>
+    <file name="roboto-mediumitalic.svg" crc="3881610416"/>
+    <file name="roboto-bold.woff" crc="441141219"/>
+    <file name="roboto-bold.eot" crc="3925335294"/>
+    <file name="roboto-bold.svg" crc="3877097712"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility"/>
+    <file name="museutils.js" crc="4232573551" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility"/>
+    <file name="whatinput.js" crc="86476730" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility"/>
+    <file name="require.js" crc="4234670167" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility"/>
+  </folder>
+  <folder name="images">
+    <file name="gianlogo.png" crc="101777905" seo="true" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility">
+      <caption webpage="index" alt=""/>
+      <caption webpage="touristattraction" alt=""/>
+      <caption webpage="accommodation" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="eligibility" alt=""/>
+      <caption webpage="modules" alt=""/>
+      <caption webpage="fees" alt=""/>
+      <caption webpage="reachingiitg" alt=""/>
+      <caption webpage="resource-person" alt=""/>
+    </file>
+    <file name="logo.png" crc="348986657" seo="true" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility">
+      <caption webpage="index" alt=""/>
+      <caption webpage="touristattraction" alt=""/>
+      <caption webpage="accommodation" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="eligibility" alt=""/>
+      <caption webpage="modules" alt=""/>
+      <caption webpage="fees" alt=""/>
+      <caption webpage="reachingiitg" alt=""/>
+      <caption webpage="resource-person" alt=""/>
+    </file>
+    <file name="mhrdlogonew.png" crc="6406557" seo="true" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility">
+      <caption webpage="index" alt=""/>
+      <caption webpage="touristattraction" alt=""/>
+      <caption webpage="accommodation" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="eligibility" alt=""/>
+      <caption webpage="modules" alt=""/>
+      <caption webpage="fees" alt=""/>
+      <caption webpage="reachingiitg" alt=""/>
+      <caption webpage="resource-person" alt=""/>
+    </file>
+    <file name="amit shelke.jpg" crc="314161556" seo="true" ref="resource-person">
+      <caption webpage="index" alt=""/>
+      <caption webpage="resource-person" alt=""/>
+    </file>
+    <file name="profile_haldar-achintya_125x188px-crop-u2643.jpg" crc="3851542396" seo="true" ref="resource-person">
+      <caption webpage="resource-person" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="75657489" ref="index"/>
+    <file name="slit shadow 1 sharpest.png" crc="530045655" seo="true" ref="index:modules:fees:accommodation:resource-person:touristattraction:contact:reachingiitg:eligibility">
+      <caption webpage="eligibility" alt=""/>
+      <caption webpage="modules" alt=""/>
+      <caption webpage="fees" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="touristattraction" alt=""/>
+      <caption webpage="accommodation" alt=""/>
+      <caption webpage="reachingiitg" alt=""/>
+      <caption webpage="resource-person" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4263228659" seo="true" mt="1506392269666" redirect="true"/>
+  <file name="modules.html" crc="4250636667" seo="true" mt="1506392269666" redirect="true"/>
+  <file name="fees.html" crc="30656760" seo="true" mt="1506392269666" redirect="true"/>
+  <file name="accommodation.html" crc="354656681" seo="true" mt="1506392269666" redirect="true"/>
+  <file name="resource-person.html" crc="3948240194" seo="true" mt="1506392269666" redirect="true"/>
+  <file name="touristattraction.html" crc="329860456" seo="true" mt="1506392269666" redirect="true"/>
+  <file name="contact.html" crc="388697425" seo="true" mt="1506392269666" redirect="true"/>
+  <file name="reachingiitg.html" crc="41030698" seo="true" mt="1506392269666" redirect="true"/>
+  <file name="eligibility.html" crc="387825127" seo="true" mt="1506392269666" redirect="true"/>
+</manifest>
