@@ -1,0 +1,200 @@
+@charset "utf-8";
+@import url("../webfonts/Roboto_Slab_regular/stylesheet.css");
+@import url("../webfonts/OpenSans_SemiBold/stylesheet.css");
+@import url("../webfonts/OpenSans_Regular/stylesheet.css");
+@import url("../webfonts/OpenSans_Light/stylesheet.css");
+@import url("../webfonts/Roboto_slab_Bold/stylesheet.css");
+
+
+
+
+/* CSS Document */
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(../images/regal.png);
+}
+.container {
+	height: auto;
+	width: 80%;
+	max-width: 1260px;
+	min-width: 880px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.container .head {
+	height: 210px;
+	width: 100%;
+	margin-top: 20px;
+	background-color: #93A5C4;
+	border: thin solid #C00;
+	margin-bottom: 20px;
+}
+.head .name {
+	float: right;
+	height: 190px;
+	width: 70%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.head .img {
+	float: left;
+	width: 26%;
+	height: 190px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: right;
+	padding-right: 4%;
+}
+.btn_menu {
+	width: 100%;
+	height: 5px;
+	padding-bottom: 10px;
+	float: left;
+	margin-left: 0px;
+	clear: right;
+	padding-top: 10px;
+	position: relative;
+}
+.btn_menu ul {
+	list-style-type: none;
+	width: 100%;
+	height: 35px;
+	display: block;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	padding-left: 15px;
+	float: left;
+}
+.btn_menu ul li {
+	text-align: center;
+	word-spacing: normal;
+	line-height: 30px;
+	float: left;
+	letter-spacing: 1px;
+	width: auto;
+	margin-left: 1px;
+	font-size: 14px;
+	font-family: "OpenSans Regular";
+	margin-top: 1px;
+}
+.btn_menu ul li a {
+	display: block;
+	height: 32px;
+	width: auto;
+	text-decoration: none;
+	color: #FFF;
+	background-color: #C00;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.btn_menu ul li a:hover {
+	font-style: normal;
+	color: #FF0;
+	background-color: #039;
+	-webkit-transition: all 0.2s ease 0s;
+	-moz-transition: all 0.2s ease 0s;
+	-ms-transition: all 0.2s ease 0s;
+	-o-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+	line-height: 32px;
+}
+#nav .active{
+	font-style: normal;
+	color: #039;
+	line-height: 30px;
+	background-color: #82D7FF;
+	border-bottom-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: #039;
+	font-weight: bolder;
+}
+a:link {
+	color: #CC0000;
+	text-decoration: none; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+a:visited {
+	text-decoration: underline;
+	color: #CC0000;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	color: #0033FF;
+	text-decoration: none;
+}
+.container .body {
+	height: 100%;
+	width: auto;
+	padding-right: 5%;
+	padding-left: 5%;
+	padding-bottom: 20px;
+	text-align: justify;
+	padding-top: 20px;
+	margin-top: 10px;
+	background-color: #FFFFE6;
+	border: 1px solid #900;
+}
+#pub_list{
+	text-align: justify;
+	text-decoration: none;
+	font: lato;
+	font-family: "OpenSans Regular";
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	padding-top: 20px;
+}
+.footer {
+	font-family: "OpenSans Regular";
+	font-size: 16px;
+	background-color: #900;
+	text-align: center;
+	clear: both;
+	float: left;
+	width: 100%;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	height: auto;
+	color: #FFF;
+}
+.back {
+	height: 2em;
+	width: 100%;
+	text-align: right;
+	font-weight: 400;
+	font-size: medium;
+	font-family: "Source Sans Pro", sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: "Roboto Slab regular";
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: #000099;
+}
+.logo {
+	float: right;
+	width: 25%;
+	height: 110px;
+	text-align: right;
+	padding-right: 2%;
+	margin-right: 3%;
+	margin-bottom: 10px;
+}
+.body h2 {
+	text-align: center;
+}
+.body #para {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #009;
+	text-align: center;
+	padding-left: 10px;
+	width: 100%;
+	font-family: "OpenSans Regular";
+	padding-right: 10px;
+}
