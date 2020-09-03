@@ -1,0 +1,342 @@
+@charset "utf-8";
+@import url("../webfonts/Roboto_Slab_regular/stylesheet.css");
+@import url("../webfonts/OpenSans_Regular/stylesheet.css");
+@import url("../webfonts/OpenSans_Light/stylesheet.css");
+@import url("../webfonts/OpenSans_SemiBold/stylesheet.css");
+
+
+
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background-image: url(../images/regal.png);
+}
+
+/* ~~ this container surrounds all other divs giving them their percentage-based width ~~ */
+.container {
+	width: 80%;
+	max-width: 1260px;/* a max-width may be desirable to keep this layout from getting too wide on a large monitor. This keeps line length more readable. IE6 does not respect this declaration. */
+	min-width: 880px; /* the auto value on the sides, coupled with the width, centers the layout. It is not needed if you set the .container's width to 100%. */
+	overflow: hidden;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a mo */
+	padding: 0;
+	margin: 0;
+	
+}
+.content .container1 {
+	height: 20em;
+	font-family: "OpenSans Regular";
+	float: right;
+	width: 100%;
+	margin-top: 20px;
+}
+#nav .active{
+	font-style: normal;
+	color: #039;
+	line-height: 30px;
+	background-color: #82D7FF;
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #039;
+	font-weight: bolder;
+	height: 31px;
+}
+
+h1, h2, h4, h5, h6, p  {
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+	font-family: "Roboto Slab regular";
+	font-weight: bolder;
+	color: #000099;
+}
+h3 {
+	color: #1B28A5;
+	font-variant: small-caps;
+	padding-left: 10px;
+}
+.container1 .logo {
+	float: right;
+	width: 25%;
+	height: 110px;
+	text-align: right;
+	padding-right: 2%;
+}
+
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+	border: none;
+}
+
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+a:link {
+	color: #CC0000;
+	text-decoration: none; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+.news-update {
+	float: left;
+	height: 30px;
+	width: 96%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 2%;
+	padding-left: 2%;
+	font-family: "OpenSans Regular";
+	font-size: 14px;
+	color: #00F;
+}
+
+a:visited {
+	text-decoration: underline;
+	color: #CC0000;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	color: #0000FF;
+	text-decoration: none;
+}
+.content {
+	width: 68%;
+	float: right;
+	padding-top: 10px;
+	padding-right: 1%;
+	padding-bottom: 10px;
+	padding-left: 1%;
+	font-family: "OpenSans Regular";
+	background-color: #FFFFE6;
+	height: 1500px;
+	margin-right: 0%;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: ridge;
+	border-top-color: #C00;
+	border-right-color: #C00;
+	border-bottom-color: #C00;
+	border-left-color: #C00;
+	font-weight: 400;
+}
+
+/* ~~ These are the columns for the layout. ~~ 
+
+1) Padding is only placed on the top and/or bottom of the divs. The elements within these divs have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
+
+2) No margin has been given to the columns since they are all floated. If you must add margin, avoid placing it on the side you're floating toward (for example: a right margin on a div set to float right). Many times, padding can be used instead. For divs where this rule must be broken, you should add a "display:inline" declaration to the div's rule to tame a bug where some versions of Internet Explorer double the margin.
+
+3) Since classes can be used multiple times in a document (and an element can also have multiple classes applied), the columns have been assigned class names instead of IDs. For example, two sidebar divs could be stacked if necessary. These can very easily be changed to IDs if that's your preference, as long as you'll only be using them once per document.
+
+4) If you prefer your nav on the right instead of the left, simply float these columns the opposite direction (all right instead of all left) and they'll render in reverse order. There's no need to move the divs around in the HTML source.
+
+*/
+.sidebar1 {
+	float: left;
+	width: 24%;
+	background-color: #93A5C4;
+	padding-bottom: 10px;
+	list-style-type: circle;
+	padding-right: 2%;
+	padding-left: 2%;
+	padding-top: 10px;
+	height: 1500px;
+	box-shadow: 5px 5px 20px 5px #666666;
+	border: thin solid #C00;
+}
+.sidebar1 ul {
+	font-family: "OpenSans Regular";
+	font-size: small;
+	color: #006;
+	padding-left: 10px;
+}
+.sidebar1 ul li {
+	font-family: "OpenSans Regular";
+	font-size: small;
+	font-variant: normal;
+	color: #006;
+	font-style: italic;
+	list-style-type: square;
+	list-style-position: inside;
+}
+/*.container1 {
+	height: 310px;
+	width: 100%;
+}
+#nav .active{
+	font-style: normal;
+	color: #039;
+	line-height: 30px;
+	background-color: #82D7FF;
+	border-bottom-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: #039;
+	font-weight: bolder;
+}*/
+.container .sidebar1 .image {
+	height: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 5%;
+	padding-right: 5%;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #00C;
+	border-right-color: #00C;
+	border-bottom-color: #00C;
+	border-left-color: #00C;
+}
+
+/* ~~ This grouped selector gives the lists in the .content area space ~~ */
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px; /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
+}
+
+/* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
+ul.nav {
+	list-style: none; /* this removes the list marker */
+	border-top: 1px solid #666; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
+	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
+}
+ul.nav li {
+	border-bottom: 1px solid #666; /* this creates the button separation */
+}
+ul.nav a, ul.nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
+	padding: 5px 5px 5px 15px;
+	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
+	text-decoration: none;
+	background-color: #8090AB;
+	color: #000;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
+	background-color: #6F7D94;
+	color: #FFF;
+}
+
+/* ~~miscellaneous float/clear classes~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the overflow:hidden on the .container is removed */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+.footer {
+	font-size: 16px;
+	color: #FFF;
+	background-color: #900;
+	text-align: center;
+	clear: both;
+	float: left;
+	width: 100%;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	height: auto;
+	font-family: "OpenSans Light";
+}
+.btn_menu {
+	width: 100%;
+	height: 35px;
+	padding-bottom: 10px;
+	float: left;
+	margin-left: 0px;
+}
+.lnk {
+	float: left;
+	width: 100%;
+	height: 20px;
+	padding-top: 10px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.btn_menu ul {
+	list-style-type: none;
+	height: 30px;
+	display: block;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	padding-left: 2%;
+	float: left;
+	padding-right: 0px;
+	margin-right: 0px;
+	width: 98%;
+}
+.btn_menu ul li {
+	font-size: 14px;	
+	text-align: left;
+	word-spacing: normal;
+	line-height: 30px;
+	float: left;
+	letter-spacing: 1px;
+	margin-left: 1px;
+	font-family: "OpenSans Regular";
+	margin-top: 1px;
+	width: auto;
+}
+.btn_menu ul li a {
+	display: block;
+	height: 32px;
+	width: auto;
+	text-decoration: none;
+	color: #FFF;
+	background-color: #C00;
+	padding-right:10px;
+	padding-left: 10px;
+}
+.btn_menu ul li a:hover {
+	font-style: normal;
+	color: #FF0;
+	background-color: #039;
+	-webkit-transition: all 0.2s ease 0s;
+	-moz-transition: all 0.2s ease 0s;
+	-ms-transition: all 0.2s ease 0s;
+	-o-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+	line-height: 32px;
+}
+.container .content .back {
+	height: 2em;
+	width: 100%;
+	text-align: right;
+	font-weight: 300;
+	font-size: medium;
+	font-family: "OpenSans Light";
+}
+
+/* CSS Document */
+#counter {
+	vertical-align: middle;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-align: center;
+	float: left;
+}
+#info {
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
