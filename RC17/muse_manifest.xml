@@ -1,0 +1,299 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.iitg.ernet.in/researchconclave" resolutions="1x" timestamp="1489493976045">
+  <folder name="assets">
+    <file name="template.doc" crc="238641295" seo="true" mt="1457275935000"/>
+    <file name="leaflet.pdf" crc="4020793406" seo="true" mt="1487324287000"/>
+    <file name="research-enclave-2017_colours.pdf" crc="342030860" seo="true" mt="1487324168000"/>
+    <file name="poster_templet-rc_2017.pdf" crc="147566277" seo="true" mt="1487163998000"/>
+    <file name="poster_templet-rc_2017.pptx" crc="237752942" seo="true" mt="1487163984000"/>
+    <file name="img_4234---copy.jpg" crc="95712201" seo="true" mt="1477578902000"/>
+    <file name="edurade---rc-aircraft.jpg" crc="4097478341" seo="true" mt="1488458034000"/>
+    <file name="latex.png" crc="18294058" seo="true" mt="1488460563000"/>
+    <file name="r-programming.jpg" crc="79543016" seo="true" mt="1488464041000"/>
+    <file name="matlab.jpg" crc="3881537702" seo="true" mt="1489484236000"/>
+    <file name="intellectual-property.jpg" crc="3760932200" seo="true" mt="1489254362000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="262043586"/>
+    <file name="master_b-master.css" crc="4164896562" ref="faqs:schedule:events:gallery:team:sponsor:registration"/>
+    <file name="master_a-master.css" crc="3843039331" ref="index"/>
+    <file name="faqs.css" crc="456368083" ref="faqs"/>
+    <file name="index.css" crc="446167956" ref="index"/>
+    <file name="schedule.css" crc="367016411" ref="schedule"/>
+    <file name="events.css" crc="3824770054" ref="events"/>
+    <file name="iefonts_events.css" crc="64613087" ref="events"/>
+    <file name="gallery.css" crc="29594249" ref="gallery"/>
+    <file name="team.css" crc="3953088744" ref="team"/>
+    <file name="sponsor.css" crc="95099134" ref="sponsor"/>
+    <file name="registration.css" crc="520109967" ref="registration"/>
+  </folder>
+  <folder name="fonts">
+    <file name="robotocondensed-regular1.woff" crc="506392145"/>
+    <file name="robotocondensed-regular1.eot" crc="189466287"/>
+    <file name="robotocondensed-regular1.svg" crc="207229872"/>
+    <file name="worksans-light.woff" crc="521297473"/>
+    <file name="worksans-light.eot" crc="444107738"/>
+    <file name="worksans-light.svg" crc="4231324681"/>
+    <file name="robotocondensed-light1.woff" crc="350709489"/>
+    <file name="robotocondensed-light1.eot" crc="59050363"/>
+    <file name="robotocondensed-light1.svg" crc="406608205"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="robotocondensed-bold1.woff" crc="70818053"/>
+    <file name="robotocondensed-bold1.eot" crc="522336685"/>
+    <file name="robotocondensed-bold1.svg" crc="4021278793"/>
+    <file name="worksans-extrabold.woff" crc="3997179077"/>
+    <file name="worksans-extrabold.eot" crc="122144827"/>
+    <file name="worksans-extrabold.svg" crc="3901002840"/>
+    <file name="robotocondensed-light1.woff" crc="350709489"/>
+    <file name="robotocondensed-light1.eot" crc="59050363"/>
+    <file name="robotocondensed-light1.svg" crc="406608205"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="robotocondensed-bold1.woff" crc="70818053"/>
+    <file name="robotocondensed-bold1.eot" crc="522336685"/>
+    <file name="robotocondensed-bold1.svg" crc="4021278793"/>
+    <file name="worksans-extrabold.woff" crc="3997179077"/>
+    <file name="worksans-extrabold.eot" crc="122144827"/>
+    <file name="worksans-extrabold.svg" crc="3901002840"/>
+    <file name="robotocondensed-italic1.woff" crc="112494909"/>
+    <file name="robotocondensed-italic1.eot" crc="373000837"/>
+    <file name="robotocondensed-italic1.svg" crc="4106139689"/>
+    <file name="robotocondensed-light1.woff" crc="350709489"/>
+    <file name="robotocondensed-light1.eot" crc="59050363"/>
+    <file name="robotocondensed-light1.svg" crc="406608205"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="robotocondensed-bold1.woff" crc="70818053"/>
+    <file name="robotocondensed-bold1.eot" crc="522336685"/>
+    <file name="robotocondensed-bold1.svg" crc="4021278793"/>
+    <file name="worksans-extrabold.woff" crc="3997179077"/>
+    <file name="worksans-extrabold.eot" crc="122144827"/>
+    <file name="worksans-extrabold.svg" crc="3901002840"/>
+    <file name="worksans-light.woff" crc="521297473"/>
+    <file name="worksans-light.eot" crc="444107738"/>
+    <file name="worksans-light.svg" crc="4231324681"/>
+    <file name="robotocondensed-light1.woff" crc="350709489"/>
+    <file name="robotocondensed-light1.eot" crc="59050363"/>
+    <file name="robotocondensed-light1.svg" crc="406608205"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="robotocondensed-bold1.woff" crc="70818053"/>
+    <file name="robotocondensed-bold1.eot" crc="522336685"/>
+    <file name="robotocondensed-bold1.svg" crc="4021278793"/>
+    <file name="worksans-extrabold.woff" crc="3997179077"/>
+    <file name="worksans-extrabold.eot" crc="122144827"/>
+    <file name="worksans-extrabold.svg" crc="3901002840"/>
+    <file name="robotocondensed-light1.woff" crc="350709489"/>
+    <file name="robotocondensed-light1.eot" crc="59050363"/>
+    <file name="robotocondensed-light1.svg" crc="406608205"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="robotocondensed-bold1.woff" crc="70818053"/>
+    <file name="robotocondensed-bold1.eot" crc="522336685"/>
+    <file name="robotocondensed-bold1.svg" crc="4021278793"/>
+    <file name="worksans-extrabold.woff" crc="3997179077"/>
+    <file name="worksans-extrabold.eot" crc="122144827"/>
+    <file name="worksans-extrabold.svg" crc="3901002840"/>
+    <file name="pe-icon-7-stroke.woff" crc="3895352034"/>
+    <file name="pe-icon-7-stroke.eot" crc="3767532406"/>
+    <file name="pe-icon-7-stroke.svg" crc="4289137902"/>
+    <file name="roboto-medium.woff" crc="504911981"/>
+    <file name="roboto-medium.eot" crc="217771796"/>
+    <file name="roboto-medium.svg" crc="4090292083"/>
+    <file name="roboto-bold.woff" crc="441141219"/>
+    <file name="roboto-bold.eot" crc="3925335294"/>
+    <file name="roboto-bold.svg" crc="3877097712"/>
+    <file name="robotocondensed-light1.woff" crc="350709489"/>
+    <file name="robotocondensed-light1.eot" crc="59050363"/>
+    <file name="robotocondensed-light1.svg" crc="406608205"/>
+    <file name="roboto-light.woff" crc="318392004"/>
+    <file name="roboto-light.eot" crc="239106935"/>
+    <file name="roboto-light.svg" crc="3947002085"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="worksans-extrabold.woff" crc="3997179077"/>
+    <file name="worksans-extrabold.eot" crc="122144827"/>
+    <file name="worksans-extrabold.svg" crc="3901002840"/>
+    <file name="robotocondensed-lightitalic1.woff" crc="3936045843"/>
+    <file name="robotocondensed-lightitalic1.eot" crc="384251733"/>
+    <file name="robotocondensed-lightitalic1.svg" crc="132527699"/>
+    <file name="roboto-regular.woff" crc="60050267"/>
+    <file name="roboto-regular.eot" crc="3971371859"/>
+    <file name="roboto-regular.svg" crc="352619082"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:team:events:faqs:gallery:schedule:sponsor:registration"/>
+    <file name="museutils.js" crc="3851988764" ref="index:team:events:faqs:gallery:schedule:sponsor:registration"/>
+    <file name="whatinput.js" crc="86476730" ref="index:team:events:faqs:gallery:schedule:sponsor:registration"/>
+    <file name="museconfig.js" crc="169177150" ref="index:team:events:faqs:gallery:schedule:sponsor:registration"/>
+    <file name="webpro.js" crc="4067903014" ref="index:gallery:schedule:events"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index:gallery:schedule"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index:gallery:schedule"/>
+    <file name="touchswipe.js" crc="474750357" ref="index:gallery:schedule"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:team:events:faqs:gallery:schedule:sponsor:registration"/>
+    <file name="pie.js" crc="3831537696" ref="index:team:gallery:schedule:faqs:events:sponsor"/>
+    <file name="require.js" crc="4108833657" ref="index:team:events:faqs:gallery:schedule:sponsor:registration"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="schedule:team:index:sponsor:events"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="sponsor:index:team:faqs:events"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="schedule:events"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3764482903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:gallery"/>
+    <file name="loading.gif" crc="3815509949" ref="index:gallery"/>
+    <file name="logo.gif" crc="3825905755" seo="true" ref="index:team:events:faqs:gallery:schedule:sponsor:registration"/>
+    <file name="sab.png" crc="4061712313" seo="true" ref="index"/>
+    <file name="pattern-89ds.jpg" crc="373298180" ref="index:team:events:faqs:gallery:schedule:sponsor:registration"/>
+    <file name="vignesh babu r-ieu1594-fr.png" crc="4101878957" ref="team"/>
+    <file name="vignesh babu r.jpg" crc="4051442900" ref="team"/>
+    <file name="mumtaggu.jpg" crc="3878962279" ref="team"/>
+    <file name="indresh-ieu1474-fr.png" crc="4255198541" ref="team"/>
+    <file name="indresh.jpg" crc="287368987" ref="team"/>
+    <file name="1.gif" crc="4129587265" seo="true" ref="events"/>
+    <file name="2.gif" crc="319670754" seo="true" ref="events"/>
+    <file name="3.gif" crc="3899197154" seo="true" ref="events"/>
+    <file name="4.gif" crc="4288852878" seo="true" ref="events"/>
+    <file name="icon-trophy.png" crc="490610887" seo="true" ref="events"/>
+    <file name="banner_prizes.png" crc="3900277326" seo="true" ref="events"/>
+    <file name="img_7783773x516.jpg" crc="64685146" seo="true" ref="gallery"/>
+    <file name="dsc_0046-2.jpg" crc="284460781" seo="true" ref="index"/>
+    <file name="dsc_0001.jpg" crc="300683442" ref="gallery:index"/>
+    <file name="dsc_0004-2.jpg" crc="376679442" seo="true" ref="gallery"/>
+    <file name="dsc_0007-2.jpg" crc="3906251740" ref="gallery:index"/>
+    <file name="dsc_0009.jpg" crc="72395538" seo="true" ref="gallery"/>
+    <file name="dsc_0031-2.jpg" crc="4219928621" ref="gallery:index"/>
+    <file name="dsc_0036-2.jpg" crc="4036636520" seo="true" ref="index"/>
+    <file name="dsc_0197.jpg" crc="3938197519" ref="gallery:index"/>
+    <file name="dsc_0067.jpg" crc="4276874512" seo="true" ref="gallery"/>
+    <file name="img_8573.jpg" crc="66785145" seo="true" ref="gallery"/>
+    <file name="dsc_0078.jpg" crc="4116157079" seo="true" ref="gallery"/>
+    <file name="dsc_0139773x516.jpg" crc="413074106" seo="true" ref="gallery"/>
+    <file name="img_7773773x516.jpg" crc="3893621896" seo="true" ref="gallery"/>
+    <file name="img_7788.jpg" crc="510514627" seo="true" ref="gallery"/>
+    <file name="img_7883.jpg" crc="273095753" seo="true" ref="gallery"/>
+    <file name="img_7895673x391.jpg" crc="3799809995" seo="true" ref="gallery"/>
+    <file name="img_7897.jpg" crc="501628679" seo="true" ref="gallery"/>
+    <file name="img_8055.jpg" crc="182872163" seo="true" ref="gallery"/>
+    <file name="img_9305.jpg" crc="92491891" seo="true" ref="gallery"/>
+    <file name="img_8006.jpg" crc="484766045" seo="true" ref="gallery"/>
+    <file name="img_9327.jpg" crc="3830719844" seo="true" ref="gallery"/>
+    <file name="img_9329.jpg" crc="3770010501" seo="true" ref="gallery"/>
+    <file name="img_7783250x167.jpg" crc="3843883914" seo="true" ref="gallery"/>
+    <file name="dsc_0046-2250x167.jpg" crc="318805974" seo="true" ref="gallery"/>
+    <file name="dsc_0001250x167.jpg" crc="3845932608" seo="true" ref="gallery"/>
+    <file name="dsc_0004-2250x167.jpg" crc="251138963" seo="true" ref="gallery"/>
+    <file name="dsc_0007-2250x167.jpg" crc="334869854" seo="true" ref="gallery"/>
+    <file name="dsc_0009250x167.jpg" crc="503133881" seo="true" ref="gallery"/>
+    <file name="dsc_0031-2250x167.jpg" crc="412488181" seo="true" ref="gallery"/>
+    <file name="dsc_0036-2250x167.jpg" crc="373424287" seo="true" ref="gallery"/>
+    <file name="dsc_0197250x166.jpg" crc="4216713319" seo="true" ref="gallery"/>
+    <file name="dsc_0067250x167.jpg" crc="3954135514" seo="true" ref="gallery"/>
+    <file name="img_8573250x167.jpg" crc="4111942960" seo="true" ref="gallery"/>
+    <file name="dsc_0078250x167.jpg" crc="3855381265" seo="true" ref="gallery"/>
+    <file name="dsc_0139250x167.jpg" crc="527392831" seo="true" ref="gallery"/>
+    <file name="img_7773250x167.jpg" crc="3799101406" seo="true" ref="gallery"/>
+    <file name="img_7788250x167.jpg" crc="427682418" seo="true" ref="gallery"/>
+    <file name="img_7883240x167.jpg" crc="108176834" seo="true" ref="gallery"/>
+    <file name="img_7895-crop-u72609.jpg" crc="432156332" ref="gallery"/>
+    <file name="img_7897250x167.jpg" crc="4097843230" seo="true" ref="gallery"/>
+    <file name="img_8055252x167.jpg" crc="533917128" seo="true" ref="gallery"/>
+    <file name="img_9305250x167.jpg" crc="134692960" seo="true" ref="gallery"/>
+    <file name="img_8006228x166.jpg" crc="158364276" seo="true" ref="gallery"/>
+    <file name="img_9327-crop-u72729.jpg" crc="503473210" ref="gallery"/>
+    <file name="img_9329250x167.jpg" crc="284659859" seo="true" ref="gallery"/>
+    <file name="img_7773-u71310-fr.jpg" crc="525102529" ref="schedule"/>
+    <file name="img_7895-u71264-fr.jpg" crc="463672996" ref="schedule"/>
+    <file name="dsc_0139-u71284-fr.jpg" crc="448084628" ref="schedule"/>
+    <file name="anupam saikia.jpg" crc="3815447116" ref="team"/>
+    <file name="gurupremprasad-2.jpg" crc="3867387771" ref="team"/>
+    <file name="gbiswas-2.jpg" crc="3802986581" ref="team"/>
+    <file name="kunnumakkara.jpg" crc="4135227268" ref="team"/>
+    <file name="pkhanikar.jpg" crc="473962940" ref="team"/>
+    <file name="kunal_verma-2-ieu1526-fr.png" crc="4187207789" ref="team"/>
+    <file name="kunal_verma-2.jpg" crc="325739380" ref="team"/>
+    <file name="nitesh kumar-2-ieu77069-fr.png" crc="66756655" ref="team"/>
+    <file name="nitesh kumar-2.jpg" crc="4132468164" ref="team"/>
+    <file name="shubha_tiwari-2-ieu77166-fr.png" crc="209683411" ref="team"/>
+    <file name="shubha_tiwari-2.jpg" crc="4014808728" ref="team"/>
+    <file name="krishnakumar-2-ieu1452-fr.png" crc="4018843226" ref="team"/>
+    <file name="krishnakumar-2.jpg" crc="4255973475" ref="team"/>
+    <file name="mumtaggu-ieu77098-fr.png" crc="364277709" ref="team"/>
+    <file name="mriganka saha-ieu77114-fr.png" crc="4027898674" ref="team"/>
+    <file name="mriganka saha.jpg" crc="488892702" ref="team"/>
+    <file name="dipti-ieu77146-fr.png" crc="3864944881" ref="team"/>
+    <file name="dipti.jpg" crc="196790220" ref="team"/>
+    <file name="img_7895.jpg" crc="3895468874" seo="true" ref="index"/>
+    <file name="img_7773.jpg" crc="419510301" seo="true" ref="index"/>
+    <file name="dsc_0042-2.jpg" crc="70571093" seo="true" ref="index"/>
+    <file name="dsc_0381-2.jpg" crc="4282733683" seo="true" ref="index"/>
+    <file name="img_8004.jpg" crc="363005254" seo="true" ref="index"/>
+    <file name="logo.png" crc="4012120046" seo="true" ref="index"/>
+    <file name="dsc_0381-2-u71299-fr.jpg" crc="291350123" ref="schedule"/>
+    <file name="img_4234 - copy.jpg" crc="95712201" seo="true" ref="index"/>
+    <file name="img_4440 - copy.jpg" crc="49716" seo="true" ref="index"/>
+    <file name="dsc_0046-2773x516.jpg" crc="389968406" seo="true" ref="gallery"/>
+    <file name="dsc_0036-2773x516.jpg" crc="508614328" seo="true" ref="gallery"/>
+    <file name="bg.png" crc="72540296" seo="true" ref="sponsor"/>
+    <file name="deep-ieu82613-fr.png" crc="425169721" ref="team"/>
+    <file name="deep.jpg" crc="36465996" ref="team"/>
+    <file name="img_20151223_102205.jpg" crc="4070933666" ref="sponsor"/>
+    <file name="sab_rc5.jpg" crc="188445100" ref="index"/>
+    <file name="umesh-ieu85769-fr.png" crc="4144343593" ref="team"/>
+    <file name="umesh.jpg" crc="391108864" ref="team"/>
+    <file name="arrow-up-c-u85791.png" crc="298183824" ref="team"/>
+    <file name="dsc_0036-22.jpg" crc="217605754" ref="index"/>
+    <file name="arup-ieu85818-fr.png" crc="103857868" ref="team"/>
+    <file name="arup.jpg" crc="306904370" ref="team"/>
+    <file name="bikash sah-ieu85857-fr.png" crc="4127160371" ref="team"/>
+    <file name="bikash sah.jpg" crc="215387893" ref="team"/>
+    <file name="mihir-ieu85841-fr.png" crc="4046203845" ref="team"/>
+    <file name="mihir.jpg" crc="3855682177" ref="team"/>
+    <file name="pdficon_large.png" crc="122796742" seo="true" ref="index:faqs:registration"/>
+    <file name="arrow-up-c-u86047.png" crc="298183824" ref="faqs"/>
+    <file name="powerpoint-icon-microsoft-powerpoint-icon-network-powerpoint-icons-and-3.png" crc="4218889082" seo="true" ref="faqs:registration"/>
+    <file name="saurav khuttiya deori (design team)-ieu86249-fr.png" crc="4197192518" ref="team"/>
+    <file name="saurav khuttiya deori (design team).jpg" crc="4018844286" ref="team"/>
+    <file name="logo (1).png" crc="7751559" seo="true" ref="sponsor:index"/>
+    <file name="nilkamal kalita-ieu86434-fr.png" crc="3849536591" ref="team"/>
+    <file name="nilkamal kalita.jpg" crc="4066398592" ref="team"/>
+    <file name="logo2.gif" crc="4105858199" seo="true" ref="index"/>
+    <file name="numaligarh refinery limited.jpg" crc="366073093" seo="true" ref="index:sponsor"/>
+    <file name="central-bank-of-india-logo-vector-image.png" crc="4205832384" seo="true" ref="index:sponsor"/>
+    <file name="ongc_logo_big.jpg" crc="3898839543" seo="true" ref="sponsor"/>
+    <file name="prince-ieu86650-fr.png" crc="204751796" ref="team"/>
+    <file name="prince.jpg" crc="3792557810" ref="team"/>
+    <file name="aurea labs.jpg" crc="4156326450" seo="true" ref="sponsor:index"/>
+    <file name="thermo_fisher_scientific_logo.svg" crc="4290415341" seo="true" ref="sponsor:index"/>
+    <file name="thermo_fisher_scientific_logo_poster_.png" crc="3848157883" ref="index:sponsor"/>
+    <file name="dr aryabhatt sahu.jpg" crc="3818685602" ref="index:events" seo="true"/>
+    <file name="dr prabuddha ganguli.jpg" crc="3927117678" ref="index:events" seo="true"/>
+    <file name="s p dhal.jpg" crc="3820207585" ref="index:events" seo="true"/>
+    <file name="gbagler.jpg" crc="3837467447" ref="index:events" seo="true"/>
+    <file name="ms ananth.jpg" crc="54992106" ref="index:events" seo="true"/>
+    <file name="kalim uddeen-ieu88018-fr.png" crc="3965897987" ref="team"/>
+    <file name="kalim uddeen.jpg" crc="350144918" ref="team"/>
+    <file name="up arrow 5@2x.png" crc="4070345359" ref="index:events:sponsor"/>
+    <file name="prashik bobade-ieu88063-fr.png" crc="379549467" ref="team"/>
+    <file name="prashik bobade.jpg" crc="184244624" ref="team"/>
+    <file name="zwick logo.gif" crc="4008063844" seo="true" ref="index:sponsor"/>
+    <file name="molbiogen-logo.png" crc="3792624089" seo="true" ref="index:sponsor"/>
+    <file name="tushar sharma-ieu88294-fr.png" crc="3792356528" ref="team"/>
+    <file name="tushar sharma.jpg" crc="468818363" ref="team"/>
+    <file name="amit2.jpg" crc="359259775" ref="events"/>
+    <file name="amit2-crop-u88591.jpg" crc="398703323" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4076251818" seo="true" mt="1489493109547" redirect="true"/>
+  <file name="team.html" crc="517848966" seo="true" mt="1489249953051" redirect="true"/>
+  <file name="events.html" crc="237867689" seo="true" mt="1489493967645" redirect="true"/>
+  <file name="faqs.html" crc="3884656624" seo="true" mt="1488091365490" redirect="true"/>
+  <file name="gallery.html" crc="3825372285" seo="true" mt="1479617571166" redirect="true"/>
+  <file name="schedule.html" crc="151269308" seo="true" mt="1489493948904" redirect="true"/>
+  <file name="sponsor.html" crc="4020486721" seo="true" mt="1489250071012" redirect="true"/>
+  <file name="registration.html" crc="4209176580" seo="true" mt="1489484509972" redirect="true"/>
+</manifest>

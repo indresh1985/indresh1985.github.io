@@ -1,0 +1,199 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="iitg.ernet.in/rc2016" resolutions="1x" timestamp="1458280222929">
+  <folder name="assets">
+    <file name="leaflet.pdf" crc="479807260" seo="true" mt="1456466682000"/>
+    <file name="poster_rc_a3.pdf" crc="4142845708" seo="true" mt="1456468654000"/>
+    <file name="poster_template.ppt" crc="4009197045" seo="true" mt="1456512401000"/>
+    <file name="template.pdf" crc="296657546" seo="true" mt="1456480852000"/>
+    <file name="bus-timings.pdf" crc="225640288" seo="true" mt="1456682582000"/>
+    <file name="logo.png" crc="108259559" seo="true" mt="1456985295000"/>
+    <file name="template.doc" crc="238641295" seo="true" mt="1457275935000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3961111899"/>
+    <file name="index.css" crc="161512184" ref="index"/>
+    <file name="registration.css" crc="3809192043" ref="registration"/>
+    <file name="sponsor.css" crc="462947459" ref="sponsor"/>
+    <file name="iefonts_index.css" crc="3848819700" ref="index"/>
+    <file name="master_a-master.css" crc="3918777940" ref="index:schedule:sponsor:registration:events:faculty-advisor:core:sab-council:faqs"/>
+    <file name="schedule.css" crc="504068400" ref="schedule"/>
+    <file name="iefonts_registration.css" crc="453199551" ref="registration"/>
+    <file name="events.css" crc="485505661" ref="events"/>
+    <file name="iefonts_events.css" crc="3845069557" ref="events"/>
+    <file name="iefonts_schedule.css" crc="90664274" ref="schedule"/>
+    <file name="faculty-advisor.css" crc="4195954558" ref="faculty-advisor"/>
+    <file name="core.css" crc="3957070311" ref="core"/>
+    <file name="iefonts_core.css" crc="3815068288" ref="core"/>
+    <file name="iefonts_faculty-advisor.css" crc="3950170113" ref="faculty-advisor"/>
+    <file name="iefonts_sponsor.css" crc="116604254" ref="sponsor"/>
+    <file name="sab-council.css" crc="21738803" ref="sab-council"/>
+    <file name="iefonts_sab-council.css" crc="528295900" ref="sab-council"/>
+    <file name="faqs.css" crc="52563907" ref="faqs"/>
+    <file name="iefonts_faqs.css" crc="4276514395" ref="faqs"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:registration:sponsor:schedule:events:core:faculty-advisor:sab-council:faqs"/>
+    <file name="museutils.js" crc="275725342" ref="index:registration:sponsor:schedule:events:core:faculty-advisor:sab-council:faqs"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:registration:sponsor:schedule:events:core:faculty-advisor:sab-council:faqs"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:registration:sponsor:schedule:events:core:faculty-advisor:sab-council:faqs"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:registration:sponsor:schedule:events:core:faculty-advisor:sab-council:faqs"/>
+    <file name="webpro.js" crc="3883484123" ref="index:schedule:events"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:registration:sponsor:schedule:events:core:faculty-advisor"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:faculty-advisor"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="schedule:events"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="arrow-up-c-u473.png" crc="129193596" ref="index"/>
+    <file name="icon_registration_200x100-u829.png" crc="194513182" ref="registration"/>
+    <file name="edit_1.jpg" crc="4012228012" seo="true" ref="index"/>
+    <file name="edit_2.jpg" crc="452784208" seo="true" ref="index"/>
+    <file name="edit_3.jpg" crc="4252842454" seo="true" ref="index"/>
+    <file name="edit_yog_4380.jpg" crc="36780555" seo="true" ref="index"/>
+    <file name="pdficon_large.png" crc="122796742" seo="true" ref="registration"/>
+    <file name="ios7-calendar-outline-u1725.png" crc="235810539" ref="index"/>
+    <file name="platinum-sponsor.jpg" crc="220533064" seo="true" ref="sponsor"/>
+    <file name="u1808-grad.png" crc="4256583935" ref="sponsor"/>
+    <file name="gold-sponsorship_large.jpg" crc="4289947961" seo="true" ref="sponsor"/>
+    <file name="u1812-grad.png" crc="13389861" ref="sponsor"/>
+    <file name="silver-sponsor_large.jpg" crc="4019464792" seo="true" ref="sponsor"/>
+    <file name="u1816-grad.png" crc="189247310" ref="sponsor"/>
+    <file name="ios7-people-u1740.png" crc="398246227" ref="core"/>
+    <file name="prince-ieu1442-fr.png" crc="4210542800" ref="core"/>
+    <file name="prince.jpg" crc="3792557810" ref="core"/>
+    <file name="niharika-ieu1449-fr.png" crc="4183671646" ref="core"/>
+    <file name="niharika.jpg" crc="4130797356" ref="core"/>
+    <file name="mumtaggu-ieu1452-fr.png" crc="176915889" ref="core"/>
+    <file name="mumtaggu.jpg" crc="3878962279" ref="core"/>
+    <file name="arup-ieu1526-fr.png" crc="4071189251" ref="core"/>
+    <file name="arup.jpg" crc="3872598269" ref="index:core"/>
+    <file name="shyamali-ieu1536-fr.png" crc="496175415" ref="core"/>
+    <file name="shyamali.jpg" crc="368428150" ref="core"/>
+    <file name="dipti-ieu1476-fr.png" crc="4272005628" ref="core"/>
+    <file name="dipti.jpg" crc="196790220" ref="core"/>
+    <file name="indresh-ieu1474-fr.png" crc="531634418" ref="core"/>
+    <file name="indresh.jpg" crc="287368987" ref="core"/>
+    <file name="saurav khuttiya deori (design team)-ieu1467-fr.png" crc="119483377" ref="core"/>
+    <file name="saurav khuttiya deori (design team).jpg" crc="4018844286" ref="core"/>
+    <file name="img_4234 - copy.jpg" crc="4260021312" seo="true" ref="index"/>
+    <file name="meeting in the board room.jpg" crc="193274127" seo="true" ref="index"/>
+    <file name="img_4344 - copy.jpg" crc="4279458338" seo="true" ref="index"/>
+    <file name="dotted separator.png" crc="169674733" seo="true" ref="index:registration:core"/>
+    <file name="u1974.png" crc="4181202364" ref="index"/>
+    <file name="1.gif" crc="4129587265" seo="true" ref="events"/>
+    <file name="2.gif" crc="319670754" seo="true" ref="events"/>
+    <file name="3.gif" crc="3899197154" seo="true" ref="events"/>
+    <file name="4.gif" crc="4288852878" seo="true" ref="events"/>
+    <file name="edit_27.jpg" crc="4171748115" seo="true" ref="index"/>
+    <file name="umesh-ieu1483-fr.png" crc="3792924980" ref="core"/>
+    <file name="umesh.jpg" crc="3797721858" ref="core"/>
+    <file name="firdausa-ieu1464-fr.png" crc="3822215462" ref="core"/>
+    <file name="firdausa.jpg" crc="4133282982" ref="core"/>
+    <file name="thin inset separator.png" crc="3905098597" seo="true" ref="schedule:events"/>
+    <file name="icon-trophy.png" crc="4043594254" seo="true" ref="events"/>
+    <file name="banner_prizes.png" crc="50815090" seo="true" ref="events"/>
+    <file name="img_4440 - copy.jpg" crc="138000801" seo="true" ref="index"/>
+    <file name="rupam-ieu1215-fr.png" crc="191446553" ref="core"/>
+    <file name="rupam.jpg" crc="4184192296" ref="core"/>
+    <file name="12696946_963239660423165_6205313569213740329_o-ieu1445-fr.png" crc="345687593" ref="core"/>
+    <file name="12696946_963239660423165_6205313569213740329_o.jpg" crc="97186761" ref="core"/>
+    <file name="rishab-ieu1455-fr.png" crc="371318103" ref="core"/>
+    <file name="rishab.jpg" crc="468062624" ref="core"/>
+    <file name="mohit-ieu1481-fr.png" crc="17033348" ref="core"/>
+    <file name="mohit.jpg" crc="307643565" ref="core"/>
+    <file name="pritam-ieu1491-fr.png" crc="4077474385" ref="core"/>
+    <file name="pritam.jpg" crc="3911215373" ref="core"/>
+    <file name="1235394_563004280431395_74197643_n-ieu1600-fr.png" crc="304968247" ref="core"/>
+    <file name="1235394_563004280431395_74197643_n.jpg" crc="4227436684" ref="core"/>
+    <file name="ajeet-ieu1603-fr.png" crc="3942791446" ref="core"/>
+    <file name="ajeet.jpg" crc="3967271572" ref="core"/>
+    <file name="favicon.ico" crc="3764482903" ref="index:core"/>
+    <file name="guru-ieu1581-fr.png" crc="94404115" ref="core"/>
+    <file name="guru.jpg" crc="4050288424" ref="core"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:core"/>
+    <file name="anupam saikia.jpg" crc="145897271" ref="index"/>
+    <file name="u2669-grad.png" crc="249546230" ref="registration"/>
+    <file name="u2669-r-grad.png" crc="499391340" ref="registration"/>
+    <file name="u2674-r-grad.png" crc="95042887" ref="registration"/>
+    <file name="sudheer-ieu1613-fr.png" crc="58567074" ref="core"/>
+    <file name="sudheer.jpg" crc="3769366558" ref="core"/>
+    <file name="arrow-up-c-u2753.png" crc="129193596" ref="faculty-advisor"/>
+    <file name="sushoban-ieu2903-fr.png" crc="53749375" ref="core"/>
+    <file name="sushoban.jpg" crc="3917186495" ref="core"/>
+    <file name="sab council.jpg" crc="55660779" seo="true" ref="sab-council"/>
+    <file name="logo.gif" crc="3825905755" seo="true" ref="index:registration:sponsor:core:schedule:events:faculty-advisor:sab-council:faqs"/>
+    <file name="barasa-malakar-(sponsor-team)-ieu1530-fr.png" crc="4032896570" ref="core"/>
+    <file name="barasa-malakar-(sponsor-team).jpg" crc="4041993941" ref="core"/>
+    <file name="sangjukta-devi-(sponsor-team)-u1540-fr.jpg" crc="364792002" ref="core"/>
+    <file name="pranab-jyoti-sarma-(sponsor-team)-ieu1543-fr.png" crc="487260248" ref="core"/>
+    <file name="pranab-jyoti-sarma-(sponsor-team).jpg" crc="478401389" ref="core"/>
+    <file name="anish-gaush-(sponsor-team)-ieu1545-fr.png" crc="206397539" ref="core"/>
+    <file name="anish-gaush-(sponsor-team).jpg" crc="56218289" ref="core"/>
+    <file name="rahul-jain-sponsor-ieu1577-fr.png" crc="368451100" ref="core"/>
+    <file name="rahul-jain-sponsor.jpg" crc="183119069" ref="core"/>
+    <file name="kunwer_mrityunjay_singh_dept_of_cse-ieu1489-fr.png" crc="377721407" ref="core"/>
+    <file name="kunwer_mrityunjay_singh_dept_of_cse.jpg" crc="4219225459" ref="core"/>
+    <file name="munmi (creative team).jpg" crc="3919201252" ref="core"/>
+    <file name="gundappa-ieu3108-fr.png" crc="107772861" ref="core"/>
+    <file name="gundappa.jpg" crc="497151482" ref="core"/>
+    <file name="indrajit-ieu3112-fr.png" crc="521210732" ref="core"/>
+    <file name="indrajit.jpg" crc="4185298194" ref="core"/>
+    <file name="bijoy-ieu3116-fr.png" crc="3778605945" ref="core"/>
+    <file name="bijoy.jpg" crc="293940865" ref="core"/>
+    <file name="u3247-4.png" crc="3862560751" ref="index:registration:sponsor:core:schedule:events:faculty-advisor:sab-council:faqs"/>
+    <file name="sab.png" crc="4029567538" seo="true" ref="index"/>
+    <file name="iitg.png" crc="66692563" seo="true" ref="index"/>
+    <file name="u3231-6.png" crc="4151798459" ref="index"/>
+    <file name="u1974-m.png" crc="4181202364" ref="index"/>
+    <file name="dr klchopra.jpg" crc="4126578322" seo="true" ref="index"/>
+    <file name="dr pramod khambete, iitb.jpg" crc="342713110" seo="true" ref="index"/>
+    <file name="mr shirish asthana, director, msme(3)-crop-u3478.jpg" crc="4046211056" ref="index"/>
+    <file name="r srikrishnaprabhu general manager – engineering, wipro infrastructure engineering.jpg" crc="405233224" seo="true" ref="index"/>
+    <file name="img-20160311-wa0001.jpg" crc="286906534" seo="true" ref="index:sponsor"/>
+    <file name="godrej_interio_logo.png" crc="212750860" seo="true" ref="index:sponsor"/>
+    <file name="img-20160311-wa0004.jpg" crc="376537720" seo="true" ref="index:sponsor"/>
+    <file name="deep-ieu1621-fr.png" crc="364682451" ref="core"/>
+    <file name="deep.jpg" crc="149172943" ref="core"/>
+    <file name="msmelogo-u3627.png" crc="4254175731" ref="index"/>
+    <file name="zaloni.png" crc="387653417" seo="true" ref="index:sponsor"/>
+    <file name="msmelogo.png" crc="403258823" seo="true" ref="sponsor"/>
+    <file name="garima-u3591-fr.jpg" crc="39607344" ref="core"/>
+    <file name="dr biman mandal, associate professor, bsbe, iitg.jpg" crc="4139690574" seo="true" ref="index"/>
+    <file name="dr r m pant, director, nird _ panchayati raj.jpg" crc="4107811846" seo="true" ref="index"/>
+    <file name="dr ramagopal uppaluri, professor, chemical engineering, iitg.jpg" crc="498550878" seo="true" ref="index"/>
+    <file name="mr brahmeshwar kumar, manager (environment), nhpc .jpg" crc="272175562" seo="true" ref="index"/>
+    <file name="ankit_garg.jpg" crc="424826223" seo="true" ref="index"/>
+    <file name="new.gif" crc="206214040" seo="true" ref="index:registration:schedule"/>
+    <file name="kamal-ieu3733-fr.png" crc="318335329" ref="core"/>
+    <file name="kamal.jpg" crc="508346140" ref="core"/>
+    <file name="soumya-ieu3737-fr.png" crc="265869905" ref="core"/>
+    <file name="soumya.jpg" crc="4262170407" ref="core"/>
+    <file name="img-20160316-wa0020-ieu3754-fr.png" crc="4010503460" ref="core"/>
+    <file name="img-20160316-wa0020.jpg" crc="4004820348" ref="core"/>
+    <file name="img-20160316-wa0021-ieu3758-fr.png" crc="206244437" ref="core"/>
+    <file name="img-20160316-wa0021.jpg" crc="3792519882" ref="core"/>
+    <file name="chatto.gif" crc="4188496741" seo="true" ref="index"/>
+    <file name="vignesh babu r-ieu1594-fr.png" crc="4263829787" ref="core"/>
+    <file name="vignesh babu r.jpg" crc="4051442900" ref="core"/>
+    <file name="nithin-ieu1590-fr.png" crc="384996603" ref="core"/>
+    <file name="nithin.jpg" crc="4181843229" ref="core"/>
+    <file name="pravanjan choudhury, head of engineering, capillary technologies.jpg" crc="111470268" seo="true" ref="index"/>
+    <file name="dr karuna kalita, department of mechanical engineering, iit guwahati.jpg" crc="87336465" seo="true" ref="index"/>
+    <file name="dr sk kakoty, department of mechanical engineering iit guwahati.jpg" crc="15390463" seo="true" ref="index"/>
+    <file name="dr utpal bora, department of biosciences and bioengineering, iit guwahati.jpg" crc="165044336" seo="true" ref="index"/>
+    <file name="2-ieu3903-fr.png" crc="4214547587" ref="core"/>
+    <file name="2.jpg" crc="359833553" ref="core"/>
+  </folder>
+  <file name="index.html" crc="4001199535" seo="true" mt="1458279664280" redirect="true"/>
+  <file name="registration.html" crc="4203102968" seo="true" mt="1458234875067" redirect="true"/>
+  <file name="sponsor.html" crc="505294415" seo="true" mt="1457941137568" redirect="true"/>
+  <file name="schedule.html" crc="276445258" seo="true" mt="1458279693981" redirect="true"/>
+  <file name="events.html" crc="124673199" seo="true" mt="1457941122111" redirect="true"/>
+  <file name="core.html" crc="264425120" seo="true" mt="1458280220420" redirect="true"/>
+  <file name="faculty-advisor.html" crc="8292451" seo="true" mt="1457941122111" redirect="true"/>
+  <file name="sab-council.html" crc="398475788" seo="true" mt="1457941122111" redirect="true"/>
+  <file name="faqs.html" crc="3800103093" seo="true" mt="1457941122111" redirect="true"/>
+</manifest>

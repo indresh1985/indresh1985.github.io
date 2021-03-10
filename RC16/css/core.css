@@ -1,0 +1,3336 @@
+.version.core /* version checker */
+{
+	color: #0000EB;
+	background-color: #DC19E7;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1000px;
+	min-height: 2355px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -60px;
+	width: 0.01px;
+}
+
+#pu1020
+{
+	width: 0.01px;
+	padding-bottom: 122px;
+	margin-left: -100px;
+}
+
+#u1020
+{
+	z-index: 321;
+	height: 122px;
+	top: 0px;
+}
+
+#u1020-bw
+{
+	z-index: 321;
+}
+
+#u2918-7
+{
+	z-index: 392;
+	width: 194px;
+	min-height: 68px;
+	top: 5px;
+	left: 50%;
+	margin-left: -480px;
+}
+
+#u2919
+{
+	z-index: 399;
+	width: 78px;
+	top: 5px;
+	left: 50%;
+	margin-left: -558px;
+}
+
+#menuu1023
+{
+	z-index: 322;
+	width: 782px;
+	top: 75px;
+	left: 50%;
+	margin-left: -279px;
+}
+
+#u1052
+{
+	width: 79px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u1053
+{
+	width: 79px;
+	padding-bottom: 15px;
+}
+
+#u1053:hover
+{
+	width: 79px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u1053.MuseMenuActive
+{
+	width: 79px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1056-4
+{
+	width: 46px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 7px;
+	left: 16px;
+}
+
+#u1053:hover #u1056-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 46px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1053.MuseMenuActive #u1056-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 46px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1024
+{
+	width: 85px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 79px;
+}
+
+#u1027
+{
+	width: 85px;
+	padding-bottom: 15px;
+}
+
+#u1027:hover
+{
+	width: 85px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u1027.MuseMenuActive
+{
+	width: 85px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1030-4
+{
+	width: 52px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 7px;
+	left: 16px;
+}
+
+#u1027:hover #u1030-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 52px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1027.MuseMenuActive #u1030-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 52px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1045
+{
+	width: 95px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 164px;
+}
+
+#u1046
+{
+	width: 95px;
+	padding-bottom: 15px;
+}
+
+#u1046:hover
+{
+	width: 95px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u1046.MuseMenuActive
+{
+	width: 95px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1047-4
+{
+	width: 42px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 7px;
+	left: 16px;
+}
+
+#u1046:hover #u1047-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 42px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1046.MuseMenuActive #u1047-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 42px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1048
+{
+	z-index: 341;
+	width: 14px;
+	height: 19px;
+	margin-right: -10000px;
+	top: 7px;
+	left: 64px;
+}
+
+#u1046:hover #u1048
+{
+	width: 14px;
+	height: 19px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1046.MuseMenuActive #u1048
+{
+	width: 14px;
+	height: 19px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1050
+{
+	width: 172px;
+	top: 34px;
+}
+
+#u1051
+{
+	width: 162px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#u2758
+{
+	width: 162px;
+}
+
+#u2759
+{
+	width: 160px;
+	padding-bottom: 16px;
+	margin-right: -10000px;
+}
+
+#u2759:hover
+{
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2760-4
+{
+	width: 123px;
+	min-height: 19px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 8px;
+	left: 9px;
+}
+
+#u2759:hover #u2760-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 123px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2759.MuseMenuActive #u2760-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 123px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2698
+{
+	width: 160px;
+	padding-bottom: 16px;
+	margin-right: -10000px;
+}
+
+#u2759.MuseMenuActive,#u2698:hover
+{
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2700-4
+{
+	width: 115px;
+	min-height: 19px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 8px;
+	left: 13px;
+}
+
+#u2698:hover #u2700-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 115px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2698.MuseMenuActive #u2700-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 115px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2697,#u2843
+{
+	width: 162px;
+	margin-top: 4px;
+}
+
+#u2844
+{
+	width: 160px;
+	padding-bottom: 16px;
+	margin-right: -10000px;
+}
+
+#u2698.MuseMenuActive,#u2844:hover
+{
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2844.MuseMenuActive
+{
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2846-4
+{
+	width: 133px;
+	min-height: 19px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 8px;
+	left: 7px;
+}
+
+#u2844:hover #u2846-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 133px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2844.MuseMenuActive #u2846-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 133px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1059
+{
+	width: 129px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 259px;
+}
+
+#u1060
+{
+	width: 129px;
+	padding-bottom: 15px;
+}
+
+#u1060:hover
+{
+	width: 129px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u1060.MuseMenuActive
+{
+	width: 129px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1061-4
+{
+	width: 96px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 7px;
+	left: 16px;
+}
+
+#u1060:hover #u1061-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 96px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1060.MuseMenuActive #u1061-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 96px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1067
+{
+	width: 103px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 388px;
+}
+
+#u1068
+{
+	width: 103px;
+	padding-bottom: 15px;
+}
+
+#u1068:hover
+{
+	width: 103px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u1069-4
+{
+	width: 70px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 7px;
+	left: 16px;
+}
+
+#u1068:hover #u1069-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 70px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1068.MuseMenuActive #u1069-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 70px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1031
+{
+	width: 103px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 491px;
+}
+
+#u1032
+{
+	width: 103px;
+	padding-bottom: 15px;
+}
+
+#u1032:hover
+{
+	width: 103px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u1068.MuseMenuActive,#u1032.MuseMenuActive
+{
+	width: 103px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1033-4
+{
+	width: 71px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 7px;
+	left: 16px;
+}
+
+#u1032:hover #u1033-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 71px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1032.MuseMenuActive #u1033-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 71px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1038
+{
+	width: 116px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 594px;
+}
+
+#u1039
+{
+	width: 116px;
+	padding-bottom: 15px;
+}
+
+#u1039:hover
+{
+	width: 116px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u1039.MuseMenuActive
+{
+	width: 116px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1041-4
+{
+	width: 84px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 7px;
+	left: 16px;
+}
+
+#u1039:hover #u1041-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 84px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1039.MuseMenuActive #u1041-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 84px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2836
+{
+	width: 72px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 710px;
+}
+
+#u2837
+{
+	width: 72px;
+	padding-bottom: 15px;
+}
+
+#u2837:hover
+{
+	width: 72px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u2837.MuseMenuActive
+{
+	width: 72px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2838-4
+{
+	width: 40px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 7px;
+	left: 16px;
+}
+
+#u2837:hover #u2838-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 40px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2837.MuseMenuActive #u2838-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 40px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3247-4
+{
+	z-index: 401;
+	top: 90px;
+	left: 50%;
+	margin-left: -565px;
+}
+
+#pu1740
+{
+	width: 0.01px;
+	margin-left: 291px;
+	margin-top: 60px;
+}
+
+#u1740
+{
+	z-index: 305;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1261-4
+{
+	z-index: 3;
+	width: 328px;
+	min-height: 47px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 71px;
+}
+
+#u1261
+{
+	line-height: 38px;
+}
+
+#u2502
+{
+	z-index: 184;
+	width: 337px;
+	background-color: transparent;
+	margin-left: 357px;
+	position: relative;
+}
+
+#pu1427-4
+{
+	width: 0.01px;
+	margin-left: 141px;
+	margin-top: 88px;
+}
+
+#u1427-4
+{
+	z-index: 7;
+	width: 194px;
+	min-height: 41px;
+	border-style: solid;
+	border-color: #FF9136;
+	background-color: transparent;
+	text-align: center;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 0px 0px 2px;
+}
+
+#u1470-4
+{
+	z-index: 31;
+	width: 239px;
+	min-height: 41px;
+	border-style: solid;
+	border-color: #FF9136;
+	background-color: transparent;
+	text-align: center;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 574px;
+	border-width: 0px 0px 2px;
+}
+
+#pppu1213
+{
+	width: 0.01px;
+	margin-top: 19px;
+}
+
+#ppu1213
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 18px;
+}
+
+#pu1213
+{
+	width: 0.01px;
+}
+
+#u1213
+{
+	z-index: 194;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1214
+{
+	z-index: 195;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1215
+{
+	z-index: 196;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/rupam-ieu1215-fr.png") no-repeat center top;
+	background: rgba(0,0,0,0) url("../images/rupam.jpg") no-repeat center top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1441
+{
+	z-index: 233;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1443
+{
+	z-index: 234;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1442
+{
+	z-index: 235;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/prince-ieu1442-fr.png") no-repeat left center;
+	background: rgba(0,0,0,0) url("../images/prince.jpg") no-repeat left center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1444
+{
+	z-index: 248;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#u1446
+{
+	z-index: 249;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1445
+{
+	z-index: 250;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/12696946_963239660423165_6205313569213740329_o-ieu1445-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/12696946_963239660423165_6205313569213740329_o.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1439-4
+{
+	z-index: 35;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1456-4
+{
+	z-index: 87;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1457-4
+{
+	z-index: 107;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#pu1447
+{
+	width: 0.01px;
+	margin-top: 70px;
+}
+
+#u1447
+{
+	z-index: 263;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1448
+{
+	z-index: 264;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1449
+{
+	z-index: 265;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/niharika-ieu1449-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/niharika.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1450
+{
+	z-index: 281;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1451
+{
+	z-index: 282;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1452
+{
+	z-index: 283;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/mumtaggu-ieu1452-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/mumtaggu.jpg") no-repeat left top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1453
+{
+	z-index: 293;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#u1454
+{
+	z-index: 294;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1455
+{
+	z-index: 295;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/rishab-ieu1455-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/rishab.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1458-4
+{
+	z-index: 127;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1459-4
+{
+	z-index: 151;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1460-4
+{
+	z-index: 167;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#u1528-4
+{
+	z-index: 11;
+	width: 301px;
+	min-height: 41px;
+	border-style: solid;
+	border-color: #FF9136;
+	background-color: transparent;
+	text-align: center;
+	margin-left: 88px;
+	margin-top: 78px;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u1525
+{
+	z-index: 197;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1527
+{
+	z-index: 198;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1526
+{
+	z-index: 199;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/arup-ieu1526-fr.png") no-repeat center bottom;
+	background: rgba(0,0,0,0) url("../images/arup.jpg") no-repeat center bottom;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1529
+{
+	z-index: 236;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1531
+{
+	z-index: 237;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1530
+{
+	z-index: 238;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/barasa-malakar-(sponsor-team)-ieu1530-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/barasa-malakar-(sponsor-team).jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1538
+{
+	z-index: 251;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 349px;
+}
+
+#u1539
+{
+	z-index: 252;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1540
+{
+	z-index: 253;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/sangjukta-devi-(sponsor-team)-u1540-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u1533-4
+{
+	z-index: 39;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1532-4
+{
+	z-index: 91;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1537-4
+{
+	z-index: 111;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 349px;
+}
+
+#pu1534
+{
+	width: 0.01px;
+	margin-top: 64px;
+}
+
+#u1534
+{
+	z-index: 266;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1535
+{
+	z-index: 267;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1536
+{
+	z-index: 268;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/shyamali-ieu1536-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/shyamali.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1541
+{
+	z-index: 284;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1542
+{
+	z-index: 285;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1543
+{
+	z-index: 286;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/pranab-jyoti-sarma-(sponsor-team)-ieu1543-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/pranab-jyoti-sarma-(sponsor-team).jpg") no-repeat left top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1544
+{
+	z-index: 296;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 349px;
+}
+
+#u1546
+{
+	z-index: 297;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1545
+{
+	z-index: 298;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/anish-gaush-(sponsor-team)-ieu1545-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/anish-gaush-(sponsor-team).jpg") no-repeat left top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#pu1533-4,#pu1547-4
+{
+	width: 0.01px;
+	margin-left: 5px;
+	margin-top: 9px;
+}
+
+#u1547-4
+{
+	z-index: 131;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1548-4
+{
+	z-index: 155;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1549-4
+{
+	z-index: 171;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 349px;
+}
+
+#pu1575
+{
+	width: 0.01px;
+	margin-left: 77px;
+	margin-top: 70px;
+}
+
+#u1575
+{
+	z-index: 269;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1576
+{
+	z-index: 270;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1577
+{
+	z-index: 271;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/rahul-jain-sponsor-ieu1577-fr.png") no-repeat right top;
+	background: rgba(0,0,0,0) url("../images/rahul-jain-sponsor.jpg") no-repeat right top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1579
+{
+	z-index: 272;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 194px;
+}
+
+#u1580
+{
+	z-index: 273;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1581
+{
+	z-index: 274;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/guru-ieu1581-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/guru.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#pu1578-4
+{
+	width: 0.01px;
+	margin-left: 82px;
+	margin-top: 15px;
+}
+
+#u1578-4
+{
+	z-index: 135;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1582-4
+{
+	z-index: 139;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 194px;
+}
+
+#u1618-4
+{
+	z-index: 27;
+	width: 333px;
+	min-height: 41px;
+	border-style: solid;
+	border-color: #FF9136;
+	background-color: transparent;
+	text-align: center;
+	margin-left: 79px;
+	margin-top: 37px;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u1619
+{
+	z-index: 242;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 182px;
+	margin-top: 39px;
+	position: relative;
+}
+
+#u1620
+{
+	z-index: 243;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1621
+{
+	z-index: 244;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/deep-ieu1621-fr.png") no-repeat center top;
+	background: rgba(0,0,0,0) url("../images/deep.jpg") no-repeat center top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1622-4
+{
+	z-index: 99;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	margin-left: 187px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u3105-4
+{
+	z-index: 23;
+	width: 301px;
+	min-height: 41px;
+	border-style: solid;
+	border-color: #FF9136;
+	background-color: transparent;
+	text-align: center;
+	margin-left: 128px;
+	margin-top: 40px;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#pu3106
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 35px;
+}
+
+#u3106
+{
+	z-index: 206;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3107
+{
+	z-index: 207;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3108
+{
+	z-index: 208;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/gundappa-ieu3108-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/gundappa.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u3111
+{
+	z-index: 209;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 173px;
+}
+
+#u3113
+{
+	z-index: 210;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3112
+{
+	z-index: 211;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/indrajit-ieu3112-fr.png") no-repeat right center;
+	background: rgba(0,0,0,0) url("../images/indrajit.jpg") no-repeat right center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u3115
+{
+	z-index: 224;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 346px;
+}
+
+#u3117
+{
+	z-index: 225;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3116
+{
+	z-index: 226;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/bijoy-ieu3116-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/bijoy.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#pu3109-4
+{
+	width: 0.01px;
+	margin-left: 25px;
+	margin-top: 15px;
+}
+
+#u3109-4
+{
+	z-index: 51;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3110-4
+{
+	z-index: 55;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 173px;
+}
+
+#u3114-4
+{
+	z-index: 75;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 346px;
+}
+
+#u1499
+{
+	z-index: 183;
+	width: 1px;
+	height: 1770px;
+	border-style: solid;
+	border-color: #FFEABC;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 526px;
+	border-width: 0px 2px 0px 0px;
+}
+
+#ppu1482
+{
+	width: 0.01px;
+	padding-bottom: 1px;
+	margin-right: -10000px;
+	margin-top: 18px;
+	margin-left: 558px;
+}
+
+#pu1482
+{
+	width: 0.01px;
+	margin-left: 16px;
+}
+
+#u1482
+{
+	z-index: 230;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1484
+{
+	z-index: 231;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1483
+{
+	z-index: 232;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/umesh-ieu1483-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/umesh.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1475
+{
+	z-index: 245;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1477
+{
+	z-index: 246;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1476
+{
+	z-index: 247;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/dipti-ieu1476-fr.png") no-repeat center top;
+	background: rgba(0,0,0,0) url("../images/dipti.jpg") no-repeat center top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1462
+{
+	z-index: 260;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#u1463
+{
+	z-index: 261;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1464
+{
+	z-index: 262;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/firdausa-ieu1464-fr.png") no-repeat right top;
+	background: rgba(0,0,0,0) url("../images/firdausa.jpg") no-repeat right top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1485-4
+{
+	z-index: 83;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1478-4
+{
+	z-index: 103;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1465-4
+{
+	z-index: 123;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#pu1479
+{
+	width: 0.01px;
+	margin-left: 16px;
+	margin-top: 70px;
+}
+
+#u1479
+{
+	z-index: 275;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#u1480
+{
+	z-index: 276;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1481
+{
+	z-index: 277;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/mohit-ieu1481-fr.png") no-repeat center bottom;
+	background: rgba(0,0,0,0) url("../images/mohit.jpg") no-repeat center bottom;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1472
+{
+	z-index: 287;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1473
+{
+	z-index: 288;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1474
+{
+	z-index: 289;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/indresh-ieu1474-fr.png") no-repeat right bottom;
+	background: rgba(0,0,0,0) url("../images/indresh.jpg") no-repeat right bottom;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1466
+{
+	z-index: 299;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#u1468
+{
+	z-index: 300;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1467
+{
+	z-index: 301;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/saurav%20khuttiya%20deori%20(design%20team)-ieu1467-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/saurav%20khuttiya%20deori%20(design%20team).jpg") no-repeat left top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#pu1486-4
+{
+	width: 0.01px;
+	margin-left: 21px;
+	margin-top: 9px;
+}
+
+#u1486-4
+{
+	z-index: 143;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#u1471-4
+{
+	z-index: 159;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1469-4
+{
+	z-index: 175;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#pu1496
+{
+	width: 0.01px;
+	margin-left: 16px;
+	margin-top: 41px;
+}
+
+#u1496
+{
+	z-index: 278;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1498
+{
+	z-index: 279;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1497
+{
+	z-index: 280;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/munmi%20(creative%20team).jpg") no-repeat center top;
+}
+
+#u1490
+{
+	z-index: 290;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1492
+{
+	z-index: 291;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1491
+{
+	z-index: 292;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/pritam-ieu1491-fr.png") no-repeat right top;
+	background: rgba(0,0,0,0) url("../images/pritam.jpg") no-repeat right top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1487
+{
+	z-index: 302;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#u1488
+{
+	z-index: 303;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1489
+{
+	z-index: 304;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/kunwer_mrityunjay_singh_dept_of_cse-ieu1489-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/kunwer_mrityunjay_singh_dept_of_cse.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#pu1485-4,#pu1495-4
+{
+	width: 0.01px;
+	margin-left: 21px;
+	margin-top: 15px;
+}
+
+#u1495-4
+{
+	z-index: 147;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1493-4
+{
+	z-index: 163;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1494-4
+{
+	z-index: 179;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#pu2901
+{
+	width: 0.01px;
+	margin-left: 88px;
+	margin-top: 48px;
+}
+
+#u2901
+{
+	z-index: 307;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u2902
+{
+	z-index: 308;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2903
+{
+	z-index: 309;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/sushoban-ieu2903-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/sushoban.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u3589
+{
+	z-index: 310;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 203px;
+}
+
+#u3590
+{
+	z-index: 311;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3591
+{
+	z-index: 312;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/garima-u3591-fr.jpg") no-repeat right top;
+	background-size: cover;
+}
+
+#pu2900-4
+{
+	width: 0.01px;
+	margin-left: 93px;
+	margin-top: 14px;
+}
+
+#u2900-4
+{
+	z-index: 186;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3599-4
+{
+	z-index: 190;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 203px;
+}
+
+#u1592-4
+{
+	z-index: 15;
+	width: 301px;
+	min-height: 41px;
+	border-style: solid;
+	border-color: #FF9136;
+	background-color: transparent;
+	text-align: center;
+	margin-left: 88px;
+	margin-top: 57px;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#pu1525,#pu1598
+{
+	width: 0.01px;
+	margin-top: 59px;
+}
+
+#u1598
+{
+	z-index: 200;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1599
+{
+	z-index: 201;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1600
+{
+	z-index: 202;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/1235394_563004280431395_74197643_n-ieu1600-fr.png") no-repeat center top;
+	background: rgba(0,0,0,0) url("../images/1235394_563004280431395_74197643_n.jpg") no-repeat center top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1593
+{
+	z-index: 239;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1595
+{
+	z-index: 240;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1594
+{
+	z-index: 241;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/vignesh%20babu%20r-ieu1594-fr.png") no-repeat right top;
+	background: rgba(0,0,0,0) url("../images/vignesh%20babu%20r.jpg") no-repeat right top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1589
+{
+	z-index: 254;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#u1591
+{
+	z-index: 255;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1590
+{
+	z-index: 256;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/nithin-ieu1590-fr.png") no-repeat center top;
+	background: rgba(0,0,0,0) url("../images/nithin.jpg") no-repeat center top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1601-4
+{
+	z-index: 43;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1596-4
+{
+	z-index: 95;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 175px;
+}
+
+#u1597-4
+{
+	z-index: 115;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#u1605-4
+{
+	z-index: 19;
+	width: 301px;
+	min-height: 41px;
+	border-style: solid;
+	border-color: #FF9136;
+	background-color: transparent;
+	text-align: center;
+	margin-left: 82px;
+	margin-top: 46px;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u1261-2,#u1427-2,#u1470-2,#u1528-2,#u1618-2,#u3105-2,#u1592-2,#u1605-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1427,#u1470,#u1528,#u1618,#u3105,#u1592,#u1605
+{
+	font-size: 34px;
+	line-height: 41px;
+}
+
+#pu1611
+{
+	width: 0.01px;
+	margin-top: 60px;
+}
+
+#u1611
+{
+	z-index: 203;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1612
+{
+	z-index: 204;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1613
+{
+	z-index: 205;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/sudheer-ieu1613-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/sudheer.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1602
+{
+	z-index: 257;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 192px;
+}
+
+#u1604
+{
+	z-index: 258;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1603
+{
+	z-index: 259;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/ajeet-ieu1603-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/ajeet.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u3732
+{
+	z-index: 227;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 378px;
+}
+
+#u3734
+{
+	z-index: 228;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3733
+{
+	z-index: 229;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/kamal-ieu3733-fr.png") no-repeat left bottom;
+	background: rgba(0,0,0,0) url("../images/kamal.jpg") no-repeat left bottom;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u1614-4
+{
+	z-index: 47;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1609-4
+{
+	z-index: 119;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 192px;
+}
+
+#u3735-4
+{
+	z-index: 79;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 378px;
+}
+
+#pu3736
+{
+	width: 0.01px;
+	margin-top: 32px;
+}
+
+#u3736
+{
+	z-index: 212;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3738
+{
+	z-index: 213;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3737
+{
+	z-index: 214;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/soumya-ieu3737-fr.png") no-repeat center top;
+	background: rgba(0,0,0,0) url("../images/soumya.jpg") no-repeat center top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u3752
+{
+	z-index: 218;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 192px;
+}
+
+#u3753
+{
+	z-index: 219;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3754
+{
+	z-index: 220;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/img-20160316-wa0020-ieu3754-fr.png") no-repeat center top;
+	background: rgba(0,0,0,0) url("../images/img-20160316-wa0020.jpg") no-repeat center top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u3756
+{
+	z-index: 221;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 378px;
+}
+
+#u3757
+{
+	z-index: 222;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3758
+{
+	z-index: 223;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/img-20160316-wa0021-ieu3758-fr.png") no-repeat center top;
+	background: rgba(0,0,0,0) url("../images/img-20160316-wa0021.jpg") no-repeat center top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#pu1439-4,#pu1458-4,#pu1601-4,#pu1614-4,#pu3739-4
+{
+	width: 0.01px;
+	margin-left: 5px;
+	margin-top: 15px;
+}
+
+#u3739-4
+{
+	z-index: 59;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3755-4
+{
+	z-index: 67;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 192px;
+}
+
+#u3759-4
+{
+	z-index: 71;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	left: 378px;
+}
+
+#u3902
+{
+	z-index: 215;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 192px;
+	margin-top: 26px;
+	position: relative;
+}
+
+#u3904
+{
+	z-index: 216;
+	width: 127px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF9136;
+	border-radius: 69px 0px 69px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1214:hover,#u1443:hover,#u1446:hover,#u1448:hover,#u1451:hover,#u1454:hover,#u1527:hover,#u1531:hover,#u1539:hover,#u1535:hover,#u1542:hover,#u1546:hover,#u1576:hover,#u1580:hover,#u1620:hover,#u3107:hover,#u3113:hover,#u3117:hover,#u1484:hover,#u1477:hover,#u1463:hover,#u1480:hover,#u1473:hover,#u1468:hover,#u1498:hover,#u1492:hover,#u1488:hover,#u2902:hover,#u3590:hover,#u1599:hover,#u1595:hover,#u1591:hover,#u1612:hover,#u1604:hover,#u3734:hover,#u3738:hover,#u3753:hover,#u3757:hover,#u3904:hover
+{
+	background-color: #FF821C;
+	width: 127px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3903
+{
+	z-index: 217;
+	width: 112px;
+	height: 112px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 0px 73px 0px 73px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 1px;
+	background: transparent url("../images/2-ieu3903-fr.png") no-repeat center bottom;
+	background: rgba(0,0,0,0) url("../images/2.jpg") no-repeat center bottom;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u3905-4
+{
+	z-index: 63;
+	width: 117px;
+	min-height: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	margin-left: 755px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u1439-2,#u1456-2,#u1457-2,#u1458-2,#u1459-2,#u1460-2,#u1533-2,#u1532-2,#u1537-2,#u1547-2,#u1548-2,#u1549-2,#u1578-2,#u1582-2,#u1622-2,#u3109-2,#u3110-2,#u3114-2,#u1485-2,#u1478-2,#u1465-2,#u1486-2,#u1471-2,#u1469-2,#u1495-2,#u1493-2,#u1494-2,#u2900-2,#u3599-2,#u1601-2,#u1596-2,#u1597-2,#u1614-2,#u1609-2,#u3735-2,#u3739-2,#u3755-2,#u3759-2,#u3905-2
+{
+	padding-top: 4px;
+}
+
+#u2765
+{
+	z-index: 2;
+	min-height: 46px;
+}
+
+#u2765_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	left: -100px;
+}
+
+#u1018-4
+{
+	z-index: 313;
+	width: 373px;
+	min-height: 33px;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 100px;
+}
+
+#u1019-4
+{
+	z-index: 317;
+	width: 373px;
+	min-height: 33px;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 727px;
+}
+
+#u2765-bw
+{
+	z-index: 2;
+	min-height: 46px;
+	margin-top: 11px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1000px;
+	padding-top: 60px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
