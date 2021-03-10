@@ -1,0 +1,326 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shilloi.iitg.ernet.in/~sab" resolutions="1x" timestamp="1490095654585">
+  <folder name="css">
+    <file name="site_global.css" crc="3982148158"/>
+    <file name="master_a-master.css" crc="118665348" ref="master:events:contact:bachelor:doctoral:gallery:index:executive:language-courses"/>
+    <file name="master.css" crc="134733061" ref="master"/>
+    <file name="events.css" crc="120090187" ref="events"/>
+    <file name="contact.css" crc="330632531" ref="contact"/>
+    <file name="bachelor.css" crc="304848665" ref="bachelor"/>
+    <file name="doctoral.css" crc="4078695247" ref="doctoral"/>
+    <file name="gallery.css" crc="535829068" ref="gallery"/>
+    <file name="index.css" crc="88572362" ref="index"/>
+    <file name="executive.css" crc="3906558478" ref="executive"/>
+    <file name="language-courses.css" crc="500271625" ref="language-courses"/>
+  </folder>
+  <folder name="fonts">
+    <file name="opensans.woff" crc="3825901246"/>
+    <file name="opensans.eot" crc="281995613"/>
+    <file name="opensans.svg" crc="110532707"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="oswald-regular.woff" crc="4177048679"/>
+    <file name="oswald-regular.eot" crc="402444347"/>
+    <file name="oswald-regular.svg" crc="58439866"/>
+    <file name="opensans.woff" crc="3825901246"/>
+    <file name="opensans.eot" crc="281995613"/>
+    <file name="opensans.svg" crc="110532707"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="oswald-regular.woff" crc="4177048679"/>
+    <file name="oswald-regular.eot" crc="402444347"/>
+    <file name="oswald-regular.svg" crc="58439866"/>
+    <file name="opensans.woff" crc="3825901246"/>
+    <file name="opensans.eot" crc="281995613"/>
+    <file name="opensans.svg" crc="110532707"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="oswald-regular.woff" crc="4177048679"/>
+    <file name="oswald-regular.eot" crc="402444347"/>
+    <file name="oswald-regular.svg" crc="58439866"/>
+    <file name="oswald-regular.woff" crc="4177048679"/>
+    <file name="oswald-regular.eot" crc="402444347"/>
+    <file name="oswald-regular.svg" crc="58439866"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="opensans.woff" crc="3825901246"/>
+    <file name="opensans.eot" crc="281995613"/>
+    <file name="opensans.svg" crc="110532707"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="oswald-regular.woff" crc="4177048679"/>
+    <file name="oswald-regular.eot" crc="402444347"/>
+    <file name="oswald-regular.svg" crc="58439866"/>
+    <file name="oswald-light.woff" crc="4186098826"/>
+    <file name="oswald-light.eot" crc="3831074510"/>
+    <file name="oswald-light.svg" crc="454008714"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="oswald-regular.woff" crc="4177048679"/>
+    <file name="oswald-regular.eot" crc="402444347"/>
+    <file name="oswald-regular.svg" crc="58439866"/>
+    <file name="pe-icon-7-stroke.woff" crc="3895352034"/>
+    <file name="pe-icon-7-stroke.eot" crc="3767532406"/>
+    <file name="pe-icon-7-stroke.svg" crc="4289137902"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="oswald-regular.woff" crc="4177048679"/>
+    <file name="oswald-regular.eot" crc="402444347"/>
+    <file name="oswald-regular.svg" crc="58439866"/>
+    <file name="oswald-regular.woff" crc="4177048679"/>
+    <file name="oswald-regular.eot" crc="402444347"/>
+    <file name="oswald-regular.svg" crc="58439866"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="opensans.woff" crc="3825901246"/>
+    <file name="opensans.eot" crc="281995613"/>
+    <file name="opensans.svg" crc="110532707"/>
+    <file name="raleway-regular.woff" crc="108405143"/>
+    <file name="raleway-regular.eot" crc="4148446348"/>
+    <file name="raleway-regular.svg" crc="4108876814"/>
+    <file name="oswald-regular.woff" crc="4177048679"/>
+    <file name="oswald-regular.eot" crc="402444347"/>
+    <file name="oswald-regular.svg" crc="58439866"/>
+  </folder>
+  <folder name="assets">
+    <file name="fifth_meet_minutes_2015.pdf" crc="3793760281" seo="true" mt="1472102805000"/>
+    <file name="first_meet_minutes_2015.pdf" crc="225711395" seo="true" mt="1472102785000"/>
+    <file name="fourth_meet_minutes_2015.pdf" crc="4163014734" seo="true" mt="1472102801000"/>
+    <file name="second_meet_minutes_2015.pdf" crc="3877947965" seo="true" mt="1472102793000"/>
+    <file name="third_meet_minutes_2015.pdf" crc="3779460202" seo="true" mt="1472102797000"/>
+    <file name="execuitive-commietee-2015-16.png" crc="536402949" seo="true" mt="1472102508000"/>
+    <file name="execuitive-commietee.png" crc="4052544781" seo="true" mt="1472102463000"/>
+    <file name="sab_rc4.jpg" crc="4099517549" seo="true" mt="1474290178000"/>
+    <file name="iitg-french-syllabus.pdf" crc="148134159" seo="true" mt="1485627234000"/>
+    <file name="iitg-syllabus_japaneses-language-course.pdf" crc="4251268329" seo="true" mt="1485627288000"/>
+    <file name="final-list_french.pdf" crc="3957905099" seo="true" mt="1486568465000"/>
+    <file name="final-list_japanese.pdf" crc="294671376" seo="true" mt="1486568511000"/>
+    <file name="gen22flga.pdf" crc="496333074" seo="true" mt="1486570335000"/>
+    <file name="gen22flgb.pdf" crc="3858476048" seo="true" mt="1486570409000"/>
+    <file name="gen22jlga.pdf" crc="133695250" seo="true" mt="1486570437000"/>
+    <file name="gen22jlgb.pdf" crc="26426991" seo="true" mt="1486570449000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:bachelor:doctoral:gallery:events:executive:contact:master:language-courses"/>
+    <file name="museutils.js" crc="3851988764" ref="index:bachelor:doctoral:gallery:events:executive:contact:master:language-courses"/>
+    <file name="whatinput.js" crc="86476730" ref="index:bachelor:doctoral:gallery:events:executive:contact:master:language-courses"/>
+    <file name="museconfig.js" crc="169177150" ref="index:bachelor:doctoral:gallery:events:executive:contact:master:language-courses"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:gallery"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:bachelor:doctoral:gallery:events:executive:contact:master:language-courses"/>
+    <file name="pie.js" crc="3831537696" ref="index:bachelor:doctoral:gallery:events:executive:master"/>
+    <file name="require.js" crc="4108833657" ref="index:bachelor:doctoral:gallery:events:executive:contact:master:language-courses"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="bachelor:doctoral:events"/>
+    <file name="webpro.js" crc="4067903014" ref="gallery"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="gallery"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="gallery"/>
+    <file name="touchswipe.js" crc="474750357" ref="gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3932809057" ref="index:doctoral"/>
+    <file name="logo_white.png" crc="4042083458" seo="true" ref="index:bachelor:doctoral:gallery:events:executive:contact:master:language-courses"/>
+    <file name="sab_rc4.jpg" crc="4099517549" ref="index"/>
+    <file name="new.gif" crc="206214040" seo="true" ref="index"/>
+    <file name="facebook white.png" crc="518265514" seo="true" ref="index:bachelor:doctoral:gallery:events:executive:contact:master:language-courses"/>
+    <file name="pattern-89ds.jpg" crc="373298180" ref="index:bachelor:doctoral:gallery:events:executive:contact:master:language-courses"/>
+    <file name="up arrow 5@2x.png" crc="4070345359" ref="bachelor:doctoral:events"/>
+    <file name="barbie-ieu9096-fr.png" crc="4198467846" ref="doctoral"/>
+    <file name="barbie.jpg" crc="4081681579" ref="doctoral"/>
+    <file name="koyel-2.jpg" crc="3995851166" ref="doctoral"/>
+    <file name="phd council 2015-16.jpg" crc="173518173" seo="true" ref="doctoral"/>
+    <file name="phd councile 2014-15.jpg" crc="115474357" seo="true" ref="doctoral"/>
+    <file name="arup_sab.jpg" crc="4143188089" seo="true" ref="gallery"/>
+    <file name="blank.gif" crc="4208392903" ref="gallery"/>
+    <file name="conclave_open_sab.jpg" crc="415118651" seo="true" ref="gallery"/>
+    <file name="conclave_sab.jpg" crc="166057904" seo="true" ref="gallery"/>
+    <file name="prize_distribution_sab.jpg" crc="3905653553" seo="true" ref="gallery"/>
+    <file name="sab_rc1.jpg" crc="3842027970" seo="true" ref="gallery"/>
+    <file name="sab_rc2.jpg" crc="3921350034" seo="true" ref="gallery"/>
+    <file name="sab_rc3.jpg" crc="4241243018" seo="true" ref="gallery"/>
+    <file name="sab_rc4816x341.jpg" crc="4267456980" seo="true" ref="gallery"/>
+    <file name="sab_rc5.jpg" crc="4055596886" seo="true" ref="gallery"/>
+    <file name="sab_rc10.jpg" crc="4127138636" seo="true" ref="gallery"/>
+    <file name="sab_rc6.jpg" crc="32388642" seo="true" ref="gallery"/>
+    <file name="sab_rc7.jpg" crc="118440807" seo="true" ref="gallery"/>
+    <file name="sab_rc8.jpg" crc="4002715866" seo="true" ref="gallery"/>
+    <file name="sab_rc9.jpg" crc="497121374" seo="true" ref="gallery"/>
+    <file name="sab_rc12.jpg" crc="331500782" seo="true" ref="gallery"/>
+    <file name="sab_rc13.jpg" crc="4162992692" seo="true" ref="gallery"/>
+    <file name="arup_sab-crop-u2894.jpg" crc="61809277" ref="gallery"/>
+    <file name="conclave_open_sab-crop-u2903.jpg" crc="230929958" ref="gallery"/>
+    <file name="conclave_sab-crop-u2912.jpg" crc="4180151663" ref="gallery"/>
+    <file name="prize_distribution_sab-crop-u2921.jpg" crc="225037649" ref="gallery"/>
+    <file name="sab_rc1-crop-u2930.jpg" crc="4127229058" ref="gallery"/>
+    <file name="sab_rc2-crop-u2939.jpg" crc="4120916144" ref="gallery"/>
+    <file name="sab_rc3-crop-u2948.jpg" crc="4056861503" ref="gallery"/>
+    <file name="sab_rc4-crop-u2957.jpg" crc="4062635571" ref="gallery"/>
+    <file name="sab_rc5-crop-u2966.jpg" crc="523293141" ref="gallery"/>
+    <file name="sab_rc10-crop-u3011.jpg" crc="498427082" ref="gallery"/>
+    <file name="sab_rc6-crop-u2975.jpg" crc="313392369" ref="gallery"/>
+    <file name="sab_rc7-crop-u2984.jpg" crc="3813541419" ref="gallery"/>
+    <file name="sab_rc8-crop-u2993.jpg" crc="2694371" ref="gallery"/>
+    <file name="sab_rc9-crop-u3002.jpg" crc="455574336" ref="gallery"/>
+    <file name="sab_rc12-crop-u3029.jpg" crc="3799878872" ref="gallery"/>
+    <file name="sab_rc13-crop-u3038.jpg" crc="4036669157" ref="gallery"/>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="a262x194.jpg" crc="4010872640" seo="true" ref="gallery"/>
+    <file name="dsc_0084291x194.jpg" crc="3944169115" seo="true" ref="gallery"/>
+    <file name="img_20160918_060116-crop-u8377.jpg" crc="486614704" ref="gallery"/>
+    <file name="dsc_0087291x194.jpg" crc="3911364352" seo="true" ref="gallery"/>
+    <file name="dsc_0089291x194.jpg" crc="3843448531" seo="true" ref="gallery"/>
+    <file name="dsc_0090291x194.jpg" crc="255822767" seo="true" ref="gallery"/>
+    <file name="dsc_0091291x194.jpg" crc="12114997" seo="true" ref="gallery"/>
+    <file name="dsc_0092291x194.jpg" crc="4096091196" seo="true" ref="gallery"/>
+    <file name="dsc_0093291x194.jpg" crc="3796310513" seo="true" ref="gallery"/>
+    <file name="dsc_0096291x194.jpg" crc="416854788" seo="true" ref="gallery"/>
+    <file name="dsc_0098291x194.jpg" crc="116432143" seo="true" ref="gallery"/>
+    <file name="b291x194.jpg" crc="523742426" seo="true" ref="gallery"/>
+    <file name="dsc_0099291x194.jpg" crc="3952525196" seo="true" ref="gallery"/>
+    <file name="dsc_0100291x194.jpg" crc="4046653499" seo="true" ref="gallery"/>
+    <file name="dsc_0101291x194.jpg" crc="238667883" seo="true" ref="gallery"/>
+    <file name="dsc_0103291x194.jpg" crc="242065406" seo="true" ref="gallery"/>
+    <file name="dsc_0107291x194.jpg" crc="482892782" seo="true" ref="gallery"/>
+    <file name="dsc_0112291x194.jpg" crc="4169029022" seo="true" ref="gallery"/>
+    <file name="dsc_0114291x194.jpg" crc="3780670000" seo="true" ref="gallery"/>
+    <file name="dsc_0121291x194.jpg" crc="4130855427" seo="true" ref="gallery"/>
+    <file name="dsc_0122291x194.jpg" crc="530080569" seo="true" ref="gallery"/>
+    <file name="dsc_0123291x194.jpg" crc="350429085" seo="true" ref="gallery"/>
+    <file name="dsc_0124291x194.jpg" crc="87455300" seo="true" ref="gallery"/>
+    <file name="dsc_0125291x194.jpg" crc="3981692891" seo="true" ref="gallery"/>
+    <file name="dsc_0126291x194.jpg" crc="3861748132" seo="true" ref="gallery"/>
+    <file name="dsc_0127291x194.jpg" crc="3856864026" seo="true" ref="gallery"/>
+    <file name="dsc_0128291x194.jpg" crc="4032993853" seo="true" ref="gallery"/>
+    <file name="img_20160918_113830262x194.jpg" crc="3866069872" seo="true" ref="gallery"/>
+    <file name="c262x194.jpg" crc="142885090" seo="true" ref="gallery"/>
+    <file name="dsc_0120291x194.jpg" crc="4019435608" seo="true" ref="gallery"/>
+    <file name="copy of dsc_0098291x194.jpg" crc="3866066591" seo="true" ref="gallery"/>
+    <file name="copy of dsc_0109291x194.jpg" crc="418992225" seo="true" ref="gallery"/>
+    <file name="copy of dsc_0122291x194.jpg" crc="4058063544" seo="true" ref="gallery"/>
+    <file name="copy of dsc_0125-1-crop-u8317.jpg" crc="3899469832" ref="gallery"/>
+    <file name="copy of dsc_0127291x194.jpg" crc="4241783195" seo="true" ref="gallery"/>
+    <file name="img_20160918_054636262x194.jpg" crc="4050727279" seo="true" ref="gallery"/>
+    <file name="img_20160918_115837262x194.jpg" crc="4000183856" seo="true" ref="gallery"/>
+    <file name="img_20160918_121920-crop-u8437.jpg" crc="4084287024" ref="gallery"/>
+    <file name="img_20160918_122936262x194.jpg" crc="3824242104" seo="true" ref="gallery"/>
+    <file name="img_20160918_123523262x194.jpg" crc="27630357" seo="true" ref="gallery"/>
+    <file name="img_20160918_123844262x194.jpg" crc="335295196" seo="true" ref="gallery"/>
+    <file name="img_20160918_124106262x194.jpg" crc="3858654547" seo="true" ref="gallery"/>
+    <file name="img_20160918_124253262x194.jpg" crc="31661433" seo="true" ref="gallery"/>
+    <file name="img_20160918_124439262x194.jpg" crc="80631255" seo="true" ref="gallery"/>
+    <file name="img_20160918_125621-crop-u8577.jpg" crc="345631560" ref="gallery"/>
+    <file name="img_20160918_125648-crop-u8597.jpg" crc="100735466" ref="gallery"/>
+    <file name="img_20160918_130243-crop-u8617.jpg" crc="200644194" ref="gallery"/>
+    <file name="img_20160918_131435-crop-u8637.jpg" crc="468604856" ref="gallery"/>
+    <file name="img_20160918_131504-crop-u8657.jpg" crc="478655404" ref="gallery"/>
+    <file name="img_20160918_133712262x194.jpg" crc="402284570" seo="true" ref="gallery"/>
+    <file name="img_20160918_135956262x194.jpg" crc="4287542653" seo="true" ref="gallery"/>
+    <file name="img_20160918_141947-crop-u8717.jpg" crc="4169175406" ref="gallery"/>
+    <file name="img_20160918_180158262x194.jpg" crc="4252078640" seo="true" ref="gallery"/>
+    <file name="a.jpg" crc="80458986" seo="true" ref="gallery"/>
+    <file name="dsc_0084.jpg" crc="426554696" seo="true" ref="gallery"/>
+    <file name="img_20160918_060116.jpg" crc="3869361062" seo="true" ref="gallery"/>
+    <file name="dsc_0087.jpg" crc="3814420874" seo="true" ref="gallery"/>
+    <file name="dsc_0089.jpg" crc="92904450" seo="true" ref="gallery"/>
+    <file name="dsc_0090.jpg" crc="4080136386" seo="true" ref="gallery"/>
+    <file name="dsc_0091.jpg" crc="4228853388" seo="true" ref="gallery"/>
+    <file name="dsc_0092.jpg" crc="3913754477" seo="true" ref="gallery"/>
+    <file name="dsc_0093.jpg" crc="4260102664" seo="true" ref="gallery"/>
+    <file name="dsc_0096.jpg" crc="3890606134" seo="true" ref="gallery"/>
+    <file name="dsc_0098.jpg" crc="399776395" seo="true" ref="gallery"/>
+    <file name="b.jpg" crc="4234949125" seo="true" ref="gallery"/>
+    <file name="dsc_0099.jpg" crc="4229124678" seo="true" ref="gallery"/>
+    <file name="dsc_0100.jpg" crc="4181356926" seo="true" ref="gallery"/>
+    <file name="dsc_0101.jpg" crc="409255145" seo="true" ref="gallery"/>
+    <file name="dsc_0103.jpg" crc="3824733401" seo="true" ref="gallery"/>
+    <file name="dsc_0107.jpg" crc="5863225" seo="true" ref="gallery"/>
+    <file name="dsc_0112.jpg" crc="3838316364" seo="true" ref="gallery"/>
+    <file name="dsc_0114.jpg" crc="281196693" seo="true" ref="gallery"/>
+    <file name="dsc_0121.jpg" crc="375789826" seo="true" ref="gallery"/>
+    <file name="dsc_0122.jpg" crc="4154981519" seo="true" ref="gallery"/>
+    <file name="dsc_0123.jpg" crc="172269724" seo="true" ref="gallery"/>
+    <file name="dsc_0124.jpg" crc="4069360835" seo="true" ref="gallery"/>
+    <file name="dsc_0125.jpg" crc="4064395495" seo="true" ref="gallery"/>
+    <file name="dsc_0126.jpg" crc="3978147283" seo="true" ref="gallery"/>
+    <file name="dsc_0127.jpg" crc="252294098" seo="true" ref="gallery"/>
+    <file name="dsc_0128.jpg" crc="320751268" seo="true" ref="gallery"/>
+    <file name="img_20160918_113830.jpg" crc="4021462601" seo="true" ref="gallery"/>
+    <file name="c.jpg" crc="347898757" seo="true" ref="gallery"/>
+    <file name="dsc_0120.jpg" crc="269324806" seo="true" ref="gallery"/>
+    <file name="copy of dsc_0098.jpg" crc="4497514" seo="true" ref="gallery"/>
+    <file name="copy of dsc_0109.jpg" crc="201476943" seo="true" ref="gallery"/>
+    <file name="copy of dsc_0122.jpg" crc="4250520125" seo="true" ref="gallery"/>
+    <file name="copy of dsc_0125-1.jpg" crc="261530475" seo="true" ref="gallery"/>
+    <file name="copy of dsc_0127.jpg" crc="17179429" seo="true" ref="gallery"/>
+    <file name="img_20160918_054636.jpg" crc="4288188493" seo="true" ref="gallery"/>
+    <file name="img_20160918_115837.jpg" crc="95520485" seo="true" ref="gallery"/>
+    <file name="img_20160918_121920.jpg" crc="4198804695" seo="true" ref="gallery"/>
+    <file name="img_20160918_122936.jpg" crc="4114458598" seo="true" ref="gallery"/>
+    <file name="img_20160918_123523.jpg" crc="3878580897" seo="true" ref="gallery"/>
+    <file name="img_20160918_123844.jpg" crc="3864692798" seo="true" ref="gallery"/>
+    <file name="img_20160918_124106.jpg" crc="157848285" seo="true" ref="gallery"/>
+    <file name="img_20160918_124253.jpg" crc="4238159322" seo="true" ref="gallery"/>
+    <file name="img_20160918_124439.jpg" crc="4051248577" seo="true" ref="gallery"/>
+    <file name="img_20160918_125621.jpg" crc="3951144173" seo="true" ref="gallery"/>
+    <file name="img_20160918_125648.jpg" crc="4263072009" seo="true" ref="gallery"/>
+    <file name="img_20160918_130243.jpg" crc="3999581240" seo="true" ref="gallery"/>
+    <file name="img_20160918_131435.jpg" crc="508343931" seo="true" ref="gallery"/>
+    <file name="img_20160918_131504.jpg" crc="320264288" seo="true" ref="gallery"/>
+    <file name="img_20160918_133712.jpg" crc="4131823311" seo="true" ref="gallery"/>
+    <file name="img_20160918_135956.jpg" crc="4129599305" seo="true" ref="gallery"/>
+    <file name="img_20160918_141947.jpg" crc="4064838956" seo="true" ref="gallery"/>
+    <file name="img_20160918_180158.jpg" crc="445872560" seo="true" ref="gallery"/>
+    <file name="chevron-left.png" crc="3843752499" ref="gallery"/>
+    <file name="chevron-right.png" crc="488748421" ref="gallery"/>
+    <file name="close.png" crc="53518380" ref="gallery"/>
+    <file name="sab_pos2.jpg" crc="234053974" seo="true" ref="events"/>
+    <file name="rc_pos1.jpg" crc="266464790" seo="true" ref="events"/>
+    <file name="paper ad-01-01.jpg" crc="117086890" seo="true" ref="events"/>
+    <file name="sab_orientation_27thjuly.jpg" crc="321386593" seo="true" ref="events"/>
+    <file name="sab_27thjuly.jpg" crc="3833362490" seo="true" ref="events"/>
+    <file name="researchconclave2015_web.jpg" crc="18182337" seo="true" ref="events"/>
+    <file name="orientation_front.jpg" crc="4251997500" seo="true" ref="events"/>
+    <file name="vignesh babu r.jpg" crc="516481739" ref="executive"/>
+    <file name="mumtaggu-ieu5953-fr.png" crc="3774908879" ref="executive"/>
+    <file name="mumtaggu.jpg" crc="3902286168" ref="executive"/>
+    <file name="kunal_verma-ieu5950-fr.png" crc="453245644" ref="executive"/>
+    <file name="kunal_verma.jpg" crc="272068337" ref="executive"/>
+    <file name="krishnakumar-ieu5960-fr.png" crc="4217471240" ref="executive"/>
+    <file name="krishnakumar.jpg" crc="60796465" ref="executive"/>
+    <file name="deep.jpg" crc="3826177396" ref="executive"/>
+    <file name="mriganka saha.jpg" crc="4000223458" ref="executive"/>
+    <file name="nitesh kumar.jpg" crc="3827574728" ref="executive"/>
+    <file name="shubha_tiwari.jpg" crc="4233901647" ref="executive"/>
+    <file name="arup.jpg" crc="265356703" ref="executive"/>
+    <file name="indresh-ieu5957-fr.png" crc="3938133428" ref="executive"/>
+    <file name="indresh.jpg" crc="4060250402" ref="executive"/>
+    <file name="class1.jpg" crc="3882783867" ref="language-courses"/>
+    <file name="pdficon_large.png" crc="122796742" seo="true" ref="language-courses"/>
+    <file name="brijesh dhiman.jpg" crc="3896523129" ref="doctoral"/>
+    <file name="siddhanta roy.jpg" crc="122088128" ref="doctoral"/>
+    <file name="jyoti kainthola.jpg" crc="4086867537" ref="doctoral"/>
+    <file name="sharbani.jpg" crc="97390548" ref="doctoral"/>
+    <file name="sahil manchanda.jpg" crc="454649121" ref="master"/>
+    <file name="dharani photo.jpg" crc="401261145" ref="master"/>
+    <file name="ashish a prabhu.jpg" crc="4246669946" ref="doctoral"/>
+    <file name="joyprakash das.jpg" crc="294073844" ref="doctoral"/>
+    <file name="prashik bobade.jpg" crc="3828300570" ref="executive"/>
+    <file name="soumya_me-u10028-fr.jpg" crc="427970255" ref="doctoral"/>
+    <file name="sonia_cse-ieu10084-fr.png" crc="3818268100" ref="doctoral"/>
+    <file name="sonia_cse.jpg" crc="4170627022" ref="doctoral"/>
+  </folder>
+  <file name="index.html" crc="4022047659" seo="true" mt="1487225727612" redirect="true"/>
+  <file name="bachelor.html" crc="3941677257" seo="true" mt="1476990961530" redirect="true"/>
+  <file name="doctoral.html" crc="417924179" seo="true" mt="1490095652406" redirect="true"/>
+  <file name="gallery.html" crc="4162531671" seo="true" mt="1476990961530" redirect="true"/>
+  <file name="events.html" crc="517601754" seo="true" mt="1476990961530" redirect="true"/>
+  <file name="executive.html" crc="285226115" seo="true" mt="1490095652304" redirect="true"/>
+  <file name="contact.html" crc="296811293" seo="true" mt="1476990961530" redirect="true"/>
+  <file name="master.html" crc="4096210514" seo="true" mt="1488976488134" redirect="true"/>
+  <file name="language-courses.html" crc="481886858" seo="true" mt="1486572556547" redirect="true"/>
+</manifest>
