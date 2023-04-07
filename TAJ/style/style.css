@@ -6,7 +6,7 @@
 body{
     background-color: #fff2e1;
     /* background-image: url(/images/food_bg.jpeg); */
-    background-image: url(/images/food_bg.png);
+    background-image: url(../images/food_bg.png);
     background-size: cover;
     text-align: center;
     
